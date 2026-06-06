@@ -10,7 +10,7 @@ Trước mọi thay đổi liên quan đến code (frontend/backend/database/inf
 
 1. `[docs/preview-dev/project-master-spec.md](./docs/preview-dev/project-master-spec.md)`
 2. Tài liệu chuyên sâu tương ứng mảng công việc:
-  - Frontend: `[docs/preview-dev/frontend-spec.md](./docs/preview-dev/frontend-spec.md)`; **luôn luôn code giao diện UI theo** `[DESIGN.md](./DESIGN.md)` (design system: màu, typography, spacing, bo góc, pattern component).
+  - Frontend: `[docs/preview-dev/frontend-spec.md](./docs/preview-dev/frontend-spec.md)`; **luôn luôn code giao diện UI theo** `[DESIGN.md](./DESIGN.md)` (design system: màu, typography, spacing, bo góc, pattern component). Sau khi code xong FE, **bắt buộc self-review** theo `[REVIEWFE.md](./REVIEWFE.md)` (xem mục *Quy tắc review frontend sau khi code*).
   - Backend: `[docs/preview-dev/backend-spec.md](./docs/preview-dev/backend-spec.md)`
   - Database + AI local: `[docs/preview-dev/database-ai-local-spec.md](./docs/preview-dev/database-ai-local-spec.md)`
   - CI/CD: `[docs/preview-dev/cicd-local-jenkins-spec.md](./docs/preview-dev/cicd-local-jenkins-spec.md)`
@@ -45,6 +45,24 @@ Trước mọi thay đổi liên quan đến code (frontend/backend/database/inf
 - Khi code UI, không hiển thị chi tiết kỹ thuật triển khai nội bộ (token, cookie httpOnly, interceptor, cơ chế auth backend, v.v.) trong nội dung dành cho end user. Text UI phải tập trung vào hành động/ngữ cảnh nghiệp vụ mà người dùng cần thực hiện.
 - **Giữ pattern UI/UX đã có:** khi chỉnh sửa component/màn hình đã tồn tại, đọc process doc + preview-spec phase liên quan trước; **chỉ thay đổi đúng phạm vi yêu cầu**, không thay thế pattern cũ (ví dụ cây expand/collapse → select phẳng) trừ khi user xác nhận. Nếu bổ sung hành vi (ví dụ dropdown thu gọn), **gắn thêm** lên pattern cũ thay vì xóa hành vi đã có.
 - Mỗi **nút mới** trên `AppToolbar` bắt buộc có **icon Lucide đặt trước** label (đầu nút), chọn icon phù hợp ngữ cảnh (ví dụ chat AI → `Bot`, tin nhắn → `MessageCircle`). Label tiếng Việt; không lộ tên model, URL hay cơ chế nội bộ cho end user.
+
+## Quy tắc review frontend sau khi code
+
+Sau **mỗi lần hoàn thành** thay đổi code frontend (file trong `frontend/`, gồm cả commit chỉ FE hoặc phần FE của task fullstack), AI **bắt buộc tự review** trước khi coi task xong:
+
+1. **Đọc** toàn bộ checklist trong [`REVIEWFE.md`](./REVIEWFE.md).
+2. **Rà soát** mọi file frontend vừa tạo/sửa theo 13 mục checklist (structure, type safety, component design, API layer, performance, a11y, change safety, …).
+3. **Sửa ngay** các vi phạm rõ ràng phát hiện được (ví dụ thiếu type, logic nghiệp vụ trong render, thiếu loading/error, file quá dài chưa tách component, thiếu comment/TSDoc cho hàm quan trọng).
+4. **Báo cáo ngắn** trong phản hồi cuối: liệt kê mục checklist đã pass; mục đã fix; mục còn hạn chế (nếu có) kèm lý do (ví dụ chưa có test vì team chưa yêu cầu phase đó).
+
+Quy tắc bổ sung khi review:
+
+- Ưu tiên mục **§13 Required** và các mục **in đậm** trong `REVIEWFE.md` (comment hàm, khai báo type, tách component).
+- Review phải đối chiếu thêm [`DESIGN.md`](./DESIGN.md) (token, App Shell, copy tiếng Việt) và [`frontend-spec.md`](./docs/preview-dev/frontend-spec.md) (route, pattern module).
+- Nếu chỉ sửa nhỏ 1–2 file FE, vẫn chạy review nhưng có thể giới hạn phạm vi vào file và component liên quan; **không bỏ qua** mục **§12 Change Safety** khi đụng logic/UI cũ.
+- Chạy `npm run lint` và `npm run build` trong `frontend/` khi có thay đổi đáng kể; ghi lỗi build/lint vào [`docs/common-errors/`](./docs/common-errors/) nếu là lỗi lặp lại.
+
+**Không** coi task frontend hoàn tất nếu chưa đọc `REVIEWFE.md` và chưa xử lý ít nhất một vòng rà soát + sửa.
 
 ## Quy tắc logic, thuật toán và best practices
 
