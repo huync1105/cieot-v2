@@ -1,0 +1,874 @@
+[
+  {
+    "id": 6,
+    "topicName": "Meetings",
+    "thumbnail": "meetings.webp",
+    "listVocabulary": [
+      {
+        "word": "agenda",
+        "variants": [
+          {
+            "pronunciation": "/əˈdʒendə/",
+            "meaning": "chương trình họp",
+            "partOfSpeech": "noun",
+            "example": "The agenda was sent yesterday."
+          }
+        ]
+      },
+      {
+        "word": "minutes",
+        "variants": [
+          {
+            "pronunciation": "/ˈmɪnɪts/",
+            "meaning": "biên bản họp",
+            "partOfSpeech": "noun",
+            "example": "Please review the meeting minutes."
+          }
+        ]
+      },
+      {
+        "word": "attendee",
+        "variants": [
+          {
+            "pronunciation": "/əˌtenˈdiː/",
+            "meaning": "người tham dự",
+            "partOfSpeech": "noun",
+            "example": "All attendees signed the register."
+          }
+        ]
+      },
+      {
+        "word": "chairperson",
+        "variants": [
+          {
+            "pronunciation": "/ˈtʃerpɜːrsn/",
+            "meaning": "chủ tọa",
+            "partOfSpeech": "noun",
+            "example": "The chairperson opened the session."
+          }
+        ]
+      },
+      {
+        "word": "postpone",
+        "variants": [
+          {
+            "pronunciation": "/poʊstˈpoʊn/",
+            "meaning": "hoãn",
+            "partOfSpeech": "verb",
+            "example": "They postponed the meeting until Thursday."
+          }
+        ]
+      },
+      {
+        "word": "adjourn",
+        "variants": [
+          {
+            "pronunciation": "/əˈdʒɜːrn/",
+            "meaning": "hoãn phiên họp",
+            "partOfSpeech": "verb",
+            "example": "The chair adjourned the meeting at noon."
+          }
+        ]
+      },
+      {
+        "word": "quorum",
+        "variants": [
+          {
+            "pronunciation": "/ˈkwɔːrəm/",
+            "meaning": "số đại biểu tối thiểu",
+            "partOfSpeech": "noun",
+            "example": "A quorum was reached after ten minutes."
+          }
+        ]
+      },
+      {
+        "word": "motion",
+        "variants": [
+          {
+            "pronunciation": "/ˈmoʊʃn/",
+            "meaning": "đề xuất",
+            "partOfSpeech": "noun",
+            "example": "The motion was approved unanimously."
+          }
+        ]
+      },
+      {
+        "word": "briefing",
+        "variants": [
+          {
+            "pronunciation": "/ˈbriːfɪŋ/",
+            "meaning": "cuộc họp ngắn",
+            "partOfSpeech": "noun",
+            "example": "A briefing will be held before the launch."
+          }
+        ]
+      },
+      {
+        "word": "convene",
+        "variants": [
+          {
+            "pronunciation": "/kənˈviːn/",
+            "meaning": "triệu tập",
+            "partOfSpeech": "verb",
+            "example": "The board will convene at nine a.m."
+          }
+        ]
+      },
+      {
+        "word": "follow-up",
+        "variants": [
+          {
+            "pronunciation": "/ˈfɑːloʊ ʌp/",
+            "meaning": "theo dõi",
+            "partOfSpeech": "noun",
+            "example": "Send a follow-up email after the meeting."
+          }
+        ]
+      },
+      {
+        "word": "conference call",
+        "variants": [
+          {
+            "pronunciation": "/ˈkɑːnfərəns kɔːl/",
+            "meaning": "cuộc gọi hội nghị",
+            "partOfSpeech": "phrase",
+            "example": "Join the conference call at ten."
+          }
+        ]
+      },
+      {
+        "word": "video conference",
+        "variants": [
+          {
+            "pronunciation": "/ˈvɪdioʊ ˈkɑːnfərəns/",
+            "meaning": "họp trực tuyến",
+            "partOfSpeech": "phrase",
+            "example": "We held a video conference with Tokyo."
+          }
+        ]
+      },
+      {
+        "word": "action item",
+        "variants": [
+          {
+            "pronunciation": "/ˈækʃn ˈaɪtəm/",
+            "meaning": "hạng mục hành động",
+            "partOfSpeech": "phrase",
+            "example": "Each action item has an owner."
+          }
+        ]
+      },
+      {
+        "word": "consensus",
+        "variants": [
+          {
+            "pronunciation": "/kənˈsensəs/",
+            "meaning": "đồng thuận",
+            "partOfSpeech": "noun",
+            "example": "The team reached a consensus quickly."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "topicName": "Presentations",
+    "thumbnail": "presentations.webp",
+    "listVocabulary": [
+      {
+        "word": "slide",
+        "variants": [
+          {
+            "pronunciation": "/slaɪd/",
+            "meaning": "slide trình chiếu",
+            "partOfSpeech": "noun",
+            "example": "The first slide shows sales figures."
+          }
+        ]
+      },
+      {
+        "word": "audience",
+        "variants": [
+          {
+            "pronunciation": "/ˈɔːdiəns/",
+            "meaning": "khán giả",
+            "partOfSpeech": "noun",
+            "example": "The audience asked several questions."
+          }
+        ]
+      },
+      {
+        "word": "visual",
+        "variants": [
+          {
+            "pronunciation": "/ˈvɪʒuəl/",
+            "meaning": "hình ảnh minh họa",
+            "partOfSpeech": "noun",
+            "example": "Use clear visuals to support your points."
+          }
+        ]
+      },
+      {
+        "word": "brochure",
+        "variants": [
+          {
+            "pronunciation": "/broʊˈʃʊr/",
+            "meaning": "tờ rơi quảng cáo",
+            "partOfSpeech": "noun",
+            "example": "Brochures will be distributed at the door."
+          }
+        ]
+      },
+      {
+        "word": "rehearse",
+        "variants": [
+          {
+            "pronunciation": "/rɪˈhɜːrs/",
+            "meaning": "diễn tập",
+            "partOfSpeech": "verb",
+            "example": "Rehearse your presentation twice."
+          }
+        ]
+      },
+      {
+        "word": "overview",
+        "variants": [
+          {
+            "pronunciation": "/ˈoʊvərvjuː/",
+            "meaning": "tổng quan",
+            "partOfSpeech": "noun",
+            "example": "The overview covers market trends."
+          }
+        ]
+      },
+      {
+        "word": "highlight",
+        "variants": [
+          {
+            "pronunciation": "/ˈhaɪlaɪt/",
+            "meaning": "làm nổi bật",
+            "partOfSpeech": "verb",
+            "example": "The speaker highlighted key achievements."
+          }
+        ]
+      },
+      {
+        "word": "bullet point",
+        "variants": [
+          {
+            "pronunciation": "/ˈbʊlɪt pɔɪnt/",
+            "meaning": "gạch đầu dòng",
+            "partOfSpeech": "phrase",
+            "example": "Keep each bullet point short."
+          }
+        ]
+      },
+      {
+        "word": "Q&A",
+        "variants": [
+          {
+            "pronunciation": "/ˌkjuː ən ˈeɪ/",
+            "meaning": "hỏi đáp",
+            "partOfSpeech": "phrase",
+            "example": "The Q&A session lasted twenty minutes."
+          }
+        ]
+      },
+      {
+        "word": "projector",
+        "variants": [
+          {
+            "pronunciation": "/prəˈdʒektər/",
+            "meaning": "máy chiếu",
+            "partOfSpeech": "noun",
+            "example": "The projector needs a new lamp."
+          }
+        ]
+      },
+      {
+        "word": "pointer",
+        "variants": [
+          {
+            "pronunciation": "/ˈpɔɪntər/",
+            "meaning": "bút laser",
+            "partOfSpeech": "noun",
+            "example": "Use a pointer to indicate the chart."
+          }
+        ]
+      },
+      {
+        "word": "demonstration",
+        "variants": [
+          {
+            "pronunciation": "/ˌdemənˈstreɪʃn/",
+            "meaning": "trình diễn",
+            "partOfSpeech": "noun",
+            "example": "A live demonstration followed the talk."
+          }
+        ]
+      },
+      {
+        "word": "feedback",
+        "variants": [
+          {
+            "pronunciation": "/ˈfiːdbæk/",
+            "meaning": "phản hồi",
+            "partOfSpeech": "noun",
+            "example": "We welcome feedback after the presentation."
+          }
+        ]
+      },
+      {
+        "word": "conclude",
+        "variants": [
+          {
+            "pronunciation": "/kənˈkluːd/",
+            "meaning": "kết luận",
+            "partOfSpeech": "verb",
+            "example": "The speaker concluded with a summary."
+          }
+        ]
+      },
+      {
+        "word": "pitch",
+        "variants": [
+          {
+            "pronunciation": "/pɪtʃ/",
+            "meaning": "thuyết trình bán hàng",
+            "partOfSpeech": "noun",
+            "example": "She delivered a strong sales pitch."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "topicName": "Finance",
+    "thumbnail": "finance.webp",
+    "listVocabulary": [
+      {
+        "word": "budget",
+        "variants": [
+          {
+            "pronunciation": "/ˈbʌdʒɪt/",
+            "meaning": "ngân sách",
+            "partOfSpeech": "noun",
+            "example": "The budget was approved last week."
+          }
+        ]
+      },
+      {
+        "word": "revenue",
+        "variants": [
+          {
+            "pronunciation": "/ˈrevənuː/",
+            "meaning": "doanh thu",
+            "partOfSpeech": "noun",
+            "example": "Revenue increased by ten percent."
+          }
+        ]
+      },
+      {
+        "word": "expense",
+        "variants": [
+          {
+            "pronunciation": "/ɪkˈspens/",
+            "meaning": "chi phí",
+            "partOfSpeech": "noun",
+            "example": "Travel expenses must be submitted monthly."
+          }
+        ]
+      },
+      {
+        "word": "profit",
+        "variants": [
+          {
+            "pronunciation": "/ˈprɑːfɪt/",
+            "meaning": "lợi nhuận",
+            "partOfSpeech": "noun",
+            "example": "Net profit rose in the second quarter."
+          }
+        ]
+      },
+      {
+        "word": "loss",
+        "variants": [
+          {
+            "pronunciation": "/lɔːs/",
+            "meaning": "thua lỗ",
+            "partOfSpeech": "noun",
+            "example": "The company reported a small loss."
+          }
+        ]
+      },
+      {
+        "word": "invoice",
+        "variants": [
+          {
+            "pronunciation": "/ˈɪnvɔɪs/",
+            "meaning": "hóa đơn",
+            "partOfSpeech": "noun",
+            "example": "Please pay the invoice by Friday."
+          }
+        ]
+      },
+      {
+        "word": "payment",
+        "variants": [
+          {
+            "pronunciation": "/ˈpeɪmənt/",
+            "meaning": "thanh toán",
+            "partOfSpeech": "noun",
+            "example": "Payment is due within thirty days."
+          }
+        ]
+      },
+      {
+        "word": "interest",
+        "variants": [
+          {
+            "pronunciation": "/ˈɪntrəst/",
+            "meaning": "lãi suất",
+            "partOfSpeech": "noun",
+            "example": "The interest rate was lowered yesterday."
+          }
+        ]
+      },
+      {
+        "word": "loan",
+        "variants": [
+          {
+            "pronunciation": "/loʊn/",
+            "meaning": "khoản vay",
+            "partOfSpeech": "noun",
+            "example": "The company applied for a business loan."
+          }
+        ]
+      },
+      {
+        "word": "debt",
+        "variants": [
+          {
+            "pronunciation": "/det/",
+            "meaning": "nợ",
+            "partOfSpeech": "noun",
+            "example": "Total debt decreased this year."
+          }
+        ]
+      },
+      {
+        "word": "asset",
+        "variants": [
+          {
+            "pronunciation": "/ˈæset/",
+            "meaning": "tài sản",
+            "partOfSpeech": "noun",
+            "example": "The firm's assets include real estate."
+          }
+        ]
+      },
+      {
+        "word": "liability",
+        "variants": [
+          {
+            "pronunciation": "/ˌlaɪəˈbɪləti/",
+            "meaning": "nghĩa vụ nợ",
+            "partOfSpeech": "noun",
+            "example": "Long-term liabilities are listed on page two."
+          }
+        ]
+      },
+      {
+        "word": "forecast",
+        "variants": [
+          {
+            "pronunciation": "/ˈfɔːrkæst/",
+            "meaning": "dự báo",
+            "partOfSpeech": "noun",
+            "example": "The forecast predicts steady growth."
+          },
+          {
+            "pronunciation": "/ˈfɔːrkæst/",
+            "meaning": "dự báo",
+            "partOfSpeech": "verb",
+            "example": "Analysts forecast higher earnings."
+          }
+        ]
+      },
+      {
+        "word": "balance",
+        "variants": [
+          {
+            "pronunciation": "/ˈbæləns/",
+            "meaning": "số dư",
+            "partOfSpeech": "noun",
+            "example": "Check your account balance online."
+          }
+        ]
+      },
+      {
+        "word": "cash flow",
+        "variants": [
+          {
+            "pronunciation": "/kæʃ floʊ/",
+            "meaning": "dòng tiền",
+            "partOfSpeech": "phrase",
+            "example": "Positive cash flow supports expansion."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "topicName": "Accounting",
+    "thumbnail": "accounting.webp",
+    "listVocabulary": [
+      {
+        "word": "ledger",
+        "variants": [
+          {
+            "pronunciation": "/ˈledʒər/",
+            "meaning": "sổ cái",
+            "partOfSpeech": "noun",
+            "example": "Entries are recorded in the general ledger."
+          }
+        ]
+      },
+      {
+        "word": "audit",
+        "variants": [
+          {
+            "pronunciation": "/ˈɔːdɪt/",
+            "meaning": "kiểm toán",
+            "partOfSpeech": "noun",
+            "example": "The annual audit begins in April."
+          }
+        ]
+      },
+      {
+        "word": "depreciation",
+        "variants": [
+          {
+            "pronunciation": "/dɪˌpriːʃiˈeɪʃn/",
+            "meaning": "khấu hao",
+            "partOfSpeech": "noun",
+            "example": "Depreciation is calculated monthly."
+          }
+        ]
+      },
+      {
+        "word": "reconcile",
+        "variants": [
+          {
+            "pronunciation": "/ˈrekənsaɪl/",
+            "meaning": "đối chiếu",
+            "partOfSpeech": "verb",
+            "example": "Reconcile the bank statement today."
+          }
+        ]
+      },
+      {
+        "word": "payable",
+        "variants": [
+          {
+            "pronunciation": "/ˈpeɪəbl/",
+            "meaning": "phải trả",
+            "partOfSpeech": "adjective",
+            "example": "Accounts payable rose last month."
+          }
+        ]
+      },
+      {
+        "word": "receivable",
+        "variants": [
+          {
+            "pronunciation": "/rɪˈsiːvəbl/",
+            "meaning": "phải thu",
+            "partOfSpeech": "adjective",
+            "example": "Accounts receivable are due in sixty days."
+          }
+        ]
+      },
+      {
+        "word": "fiscal",
+        "variants": [
+          {
+            "pronunciation": "/ˈfɪskl/",
+            "meaning": "tài chính",
+            "partOfSpeech": "adjective",
+            "example": "The fiscal year ends in December."
+          }
+        ]
+      },
+      {
+        "word": "tax",
+        "variants": [
+          {
+            "pronunciation": "/tæks/",
+            "meaning": "thuế",
+            "partOfSpeech": "noun",
+            "example": "Corporate tax returns are due in March."
+          }
+        ]
+      },
+      {
+        "word": "deduction",
+        "variants": [
+          {
+            "pronunciation": "/dɪˈdʌkʃn/",
+            "meaning": "khoản khấu trừ",
+            "partOfSpeech": "noun",
+            "example": "Travel costs qualify as a deduction."
+          }
+        ]
+      },
+      {
+        "word": "amortization",
+        "variants": [
+          {
+            "pronunciation": "/əˌmɔːrtəˈzeɪʃn/",
+            "meaning": "khấu hao dần",
+            "partOfSpeech": "noun",
+            "example": "Amortization spreads the cost over time."
+          }
+        ]
+      },
+      {
+        "word": "inventory",
+        "variants": [
+          {
+            "pronunciation": "/ˈɪnvəntɔːri/",
+            "meaning": "hàng tồn kho",
+            "partOfSpeech": "noun",
+            "example": "Inventory levels were counted yesterday."
+          }
+        ]
+      },
+      {
+        "word": "bookkeeping",
+        "variants": [
+          {
+            "pronunciation": "/ˈbʊkkiːpɪŋ/",
+            "meaning": "ghi sổ kế toán",
+            "partOfSpeech": "noun",
+            "example": "Accurate bookkeeping is essential."
+          }
+        ]
+      },
+      {
+        "word": "statement",
+        "variants": [
+          {
+            "pronunciation": "/ˈsteɪtmənt/",
+            "meaning": "báo cáo tài chính",
+            "partOfSpeech": "noun",
+            "example": "The financial statement was released today."
+          }
+        ]
+      },
+      {
+        "word": "accrual",
+        "variants": [
+          {
+            "pronunciation": "/əˈkruːəl/",
+            "meaning": "dồn tích",
+            "partOfSpeech": "noun",
+            "example": "Revenue is recognized on an accrual basis."
+          }
+        ]
+      },
+      {
+        "word": "write-off",
+        "variants": [
+          {
+            "pronunciation": "/ˈraɪt ɔːf/",
+            "meaning": "xóa sổ",
+            "partOfSpeech": "noun",
+            "example": "Bad debts were taken as a write-off."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "topicName": "Banking",
+    "thumbnail": "banking.webp",
+    "listVocabulary": [
+      {
+        "word": "account",
+        "variants": [
+          {
+            "pronunciation": "/əˈkaʊnt/",
+            "meaning": "tài khoản",
+            "partOfSpeech": "noun",
+            "example": "Open a business account at the branch."
+          }
+        ]
+      },
+      {
+        "word": "deposit",
+        "variants": [
+          {
+            "pronunciation": "/dɪˈpɑːzɪt/",
+            "meaning": "gửi tiền",
+            "partOfSpeech": "verb",
+            "example": "Please deposit the check today."
+          },
+          {
+            "pronunciation": "/ˈdepɑːzɪt/",
+            "meaning": "tiền gửi",
+            "partOfSpeech": "noun",
+            "example": "A deposit of five hundred dollars was made."
+          }
+        ]
+      },
+      {
+        "word": "withdraw",
+        "variants": [
+          {
+            "pronunciation": "/wɪðˈdrɔː/",
+            "meaning": "rút tiền",
+            "partOfSpeech": "verb",
+            "example": "You can withdraw cash at any ATM."
+          }
+        ]
+      },
+      {
+        "word": "transfer",
+        "variants": [
+          {
+            "pronunciation": "/trænsˈfɜːr/",
+            "meaning": "chuyển khoản",
+            "partOfSpeech": "verb",
+            "example": "Transfer funds to the vendor account."
+          }
+        ]
+      },
+      {
+        "word": "overdraft",
+        "variants": [
+          {
+            "pronunciation": "/ˈoʊvərdræft/",
+            "meaning": "thấu chi",
+            "partOfSpeech": "noun",
+            "example": "An overdraft fee applies after three days."
+          }
+        ]
+      },
+      {
+        "word": "mortgage",
+        "variants": [
+          {
+            "pronunciation": "/ˈmɔːrɡɪdʒ/",
+            "meaning": "thế chấp",
+            "partOfSpeech": "noun",
+            "example": "They applied for a thirty-year mortgage."
+          }
+        ]
+      },
+      {
+        "word": "collateral",
+        "variants": [
+          {
+            "pronunciation": "/kəˈlætərəl/",
+            "meaning": "tài sản thế chấp",
+            "partOfSpeech": "noun",
+            "example": "The loan requires collateral."
+          }
+        ]
+      },
+      {
+        "word": "branch",
+        "variants": [
+          {
+            "pronunciation": "/bræntʃ/",
+            "meaning": "chi nhánh",
+            "partOfSpeech": "noun",
+            "example": "Visit the nearest branch for assistance."
+          }
+        ]
+      },
+      {
+        "word": "teller",
+        "variants": [
+          {
+            "pronunciation": "/ˈtelər/",
+            "meaning": "giao dịch viên",
+            "partOfSpeech": "noun",
+            "example": "The teller processed my deposit quickly."
+          }
+        ]
+      },
+      {
+        "word": "debit card",
+        "variants": [
+          {
+            "pronunciation": "/ˈdebɪt kɑːrd/",
+            "meaning": "thẻ ghi nợ",
+            "partOfSpeech": "phrase",
+            "example": "Pay with your debit card at the counter."
+          }
+        ]
+      },
+      {
+        "word": "interest rate",
+        "variants": [
+          {
+            "pronunciation": "/ˈɪntrəst reɪt/",
+            "meaning": "lãi suất",
+            "partOfSpeech": "phrase",
+            "example": "The interest rate dropped half a point."
+          }
+        ]
+      },
+      {
+        "word": "credit line",
+        "variants": [
+          {
+            "pronunciation": "/ˈkredɪt laɪn/",
+            "meaning": "hạn mức tín dụng",
+            "partOfSpeech": "phrase",
+            "example": "The credit line was increased to fifty thousand."
+          }
+        ]
+      },
+      {
+        "word": "wire transfer",
+        "variants": [
+          {
+            "pronunciation": "/ˈwaɪər trænsfɜːr/",
+            "meaning": "chuyển tiền điện tín",
+            "partOfSpeech": "phrase",
+            "example": "Send payment by wire transfer."
+          }
+        ]
+      },
+      {
+        "word": "savings",
+        "variants": [
+          {
+            "pronunciation": "/ˈseɪvɪŋz/",
+            "meaning": "tiết kiệm",
+            "partOfSpeech": "noun",
+            "example": "She opened a savings account last year."
+          }
+        ]
+      },
+      {
+        "word": "currency",
+        "variants": [
+          {
+            "pronunciation": "/ˈkɜːrənsi/",
+            "meaning": "tiền tệ",
+            "partOfSpeech": "noun",
+            "example": "Exchange rates affect foreign currency."
+          }
+        ]
+      }
+    ]
+  }
+]

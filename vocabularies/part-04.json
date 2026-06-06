@@ -1,0 +1,862 @@
+[
+  {
+    "id": 16,
+    "topicName": "Purchasing",
+    "thumbnail": "purchasing.webp",
+    "listVocabulary": [
+      {
+        "word": "procurement",
+        "variants": [
+          {
+            "pronunciation": "/prəˈkjʊrmənt/",
+            "meaning": "mua sắm",
+            "partOfSpeech": "noun",
+            "example": "Procurement follows strict guidelines."
+          }
+        ]
+      },
+      {
+        "word": "vendor",
+        "variants": [
+          {
+            "pronunciation": "/ˈvendər/",
+            "meaning": "nhà cung cấp",
+            "partOfSpeech": "noun",
+            "example": "The vendor delivered on schedule."
+          }
+        ]
+      },
+      {
+        "word": "supplier",
+        "variants": [
+          {
+            "pronunciation": "/səˈplaɪər/",
+            "meaning": "nhà cung ứng",
+            "partOfSpeech": "noun",
+            "example": "We switched to a local supplier."
+          }
+        ]
+      },
+      {
+        "word": "purchase order",
+        "variants": [
+          {
+            "pronunciation": "/ˈpɜːrtʃəs ˈɔːrdər/",
+            "meaning": "đơn đặt hàng",
+            "partOfSpeech": "phrase",
+            "example": "Submit the purchase order for approval."
+          }
+        ]
+      },
+      {
+        "word": "requisition",
+        "variants": [
+          {
+            "pronunciation": "/ˌrekwəˈzɪʃn/",
+            "meaning": "phiếu yêu cầu mua",
+            "partOfSpeech": "noun",
+            "example": "Fill out a requisition for office supplies."
+          }
+        ]
+      },
+      {
+        "word": "bid",
+        "variants": [
+          {
+            "pronunciation": "/bɪd/",
+            "meaning": "báo giá",
+            "partOfSpeech": "noun",
+            "example": "Three vendors submitted a bid."
+          }
+        ]
+      },
+      {
+        "word": "quotation",
+        "variants": [
+          {
+            "pronunciation": "/kwoʊˈteɪʃn/",
+            "meaning": "báo giá",
+            "partOfSpeech": "noun",
+            "example": "Request a quotation before ordering."
+          }
+        ]
+      },
+      {
+        "word": "specification",
+        "variants": [
+          {
+            "pronunciation": "/ˌspesɪfɪˈkeɪʃn/",
+            "meaning": "quy cách kỹ thuật",
+            "partOfSpeech": "noun",
+            "example": "Products must meet our specifications."
+          }
+        ]
+      },
+      {
+        "word": "bulk",
+        "variants": [
+          {
+            "pronunciation": "/bʊlk/",
+            "meaning": "số lượng lớn",
+            "partOfSpeech": "noun",
+            "example": "Bulk orders receive a discount."
+          }
+        ]
+      },
+      {
+        "word": "sourcing",
+        "variants": [
+          {
+            "pronunciation": "/ˈsɔːrsɪŋ/",
+            "meaning": "tìm nguồn cung",
+            "partOfSpeech": "noun",
+            "example": "Global sourcing reduced costs."
+          }
+        ]
+      },
+      {
+        "word": "lead time",
+        "variants": [
+          {
+            "pronunciation": "/liːd taɪm/",
+            "meaning": "thời gian giao hàng",
+            "partOfSpeech": "phrase",
+            "example": "Lead time is two weeks."
+          }
+        ]
+      },
+      {
+        "word": "backorder",
+        "variants": [
+          {
+            "pronunciation": "/ˈbækɔːrdər/",
+            "meaning": "đơn chờ hàng",
+            "partOfSpeech": "noun",
+            "example": "The item is on backorder until March."
+          }
+        ]
+      },
+      {
+        "word": "procure",
+        "variants": [
+          {
+            "pronunciation": "/prəˈkjʊr/",
+            "meaning": "mua sắm",
+            "partOfSpeech": "verb",
+            "example": "We procure materials from certified vendors."
+          }
+        ]
+      },
+      {
+        "word": "negotiation",
+        "variants": [
+          {
+            "pronunciation": "/nɪˌɡoʊʃiˈeɪʃn/",
+            "meaning": "đàm phán mua hàng",
+            "partOfSpeech": "noun",
+            "example": "Price negotiation saved ten percent."
+          }
+        ]
+      },
+      {
+        "word": "approval",
+        "variants": [
+          {
+            "pronunciation": "/əˈpruːvl/",
+            "meaning": "phê duyệt",
+            "partOfSpeech": "noun",
+            "example": "Purchases over five thousand need approval."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "topicName": "Contracts",
+    "thumbnail": "contracts.webp",
+    "listVocabulary": [
+      {
+        "word": "agreement",
+        "variants": [
+          {
+            "pronunciation": "/əˈɡriːmənt/",
+            "meaning": "thỏa thuận",
+            "partOfSpeech": "noun",
+            "example": "Both parties signed the agreement."
+          }
+        ]
+      },
+      {
+        "word": "clause",
+        "variants": [
+          {
+            "pronunciation": "/klɔːz/",
+            "meaning": "điều khoản",
+            "partOfSpeech": "noun",
+            "example": "Read each clause carefully."
+          }
+        ]
+      },
+      {
+        "word": "term",
+        "variants": [
+          {
+            "pronunciation": "/tɜːrm/",
+            "meaning": "thời hạn hợp đồng",
+            "partOfSpeech": "noun",
+            "example": "The contract term is three years."
+          }
+        ]
+      },
+      {
+        "word": "renewal",
+        "variants": [
+          {
+            "pronunciation": "/rɪˈnuːəl/",
+            "meaning": "gia hạn",
+            "partOfSpeech": "noun",
+            "example": "Contract renewal is due next month."
+          }
+        ]
+      },
+      {
+        "word": "terminate",
+        "variants": [
+          {
+            "pronunciation": "/ˈtɜːrmɪneɪt/",
+            "meaning": "chấm dứt",
+            "partOfSpeech": "verb",
+            "example": "Either party may terminate with notice."
+          }
+        ]
+      },
+      {
+        "word": "binding",
+        "variants": [
+          {
+            "pronunciation": "/ˈbaɪndɪŋ/",
+            "meaning": "ràng buộc",
+            "partOfSpeech": "adjective",
+            "example": "The agreement is legally binding."
+          }
+        ]
+      },
+      {
+        "word": "breach",
+        "variants": [
+          {
+            "pronunciation": "/briːtʃ/",
+            "meaning": "vi phạm hợp đồng",
+            "partOfSpeech": "noun",
+            "example": "A breach may result in penalties."
+          }
+        ]
+      },
+      {
+        "word": "amendment",
+        "variants": [
+          {
+            "pronunciation": "/əˈmendmənt/",
+            "meaning": "sửa đổi hợp đồng",
+            "partOfSpeech": "noun",
+            "example": "An amendment was added yesterday."
+          }
+        ]
+      },
+      {
+        "word": "signatory",
+        "variants": [
+          {
+            "pronunciation": "/ˈsɪɡnətɔːri/",
+            "meaning": "bên ký kết",
+            "partOfSpeech": "noun",
+            "example": "All signatories must be present."
+          }
+        ]
+      },
+      {
+        "word": "obligation",
+        "variants": [
+          {
+            "pronunciation": "/ˌɑːblɪˈɡeɪʃn/",
+            "meaning": "nghĩa vụ",
+            "partOfSpeech": "noun",
+            "example": "Each party has clear obligations."
+          }
+        ]
+      },
+      {
+        "word": "confidentiality",
+        "variants": [
+          {
+            "pronunciation": "/ˌkɑːnfɪdenʃiˈæləti/",
+            "meaning": "bảo mật",
+            "partOfSpeech": "noun",
+            "example": "Confidentiality applies to all documents."
+          }
+        ]
+      },
+      {
+        "word": "penalty",
+        "variants": [
+          {
+            "pronunciation": "/ˈpenəlti/",
+            "meaning": "phạt",
+            "partOfSpeech": "noun",
+            "example": "Late delivery triggers a penalty."
+          }
+        ]
+      },
+      {
+        "word": "draft",
+        "variants": [
+          {
+            "pronunciation": "/dræft/",
+            "meaning": "bản nháp",
+            "partOfSpeech": "noun",
+            "example": "Review the draft before signing."
+          }
+        ]
+      },
+      {
+        "word": "execute",
+        "variants": [
+          {
+            "pronunciation": "/ˈeksɪkjuːt/",
+            "meaning": "ký kết",
+            "partOfSpeech": "verb",
+            "example": "We will execute the contract on Monday."
+          }
+        ]
+      },
+      {
+        "word": "counterparty",
+        "variants": [
+          {
+            "pronunciation": "/ˈkaʊntərpɑːrti/",
+            "meaning": "bên đối tác",
+            "partOfSpeech": "noun",
+            "example": "The counterparty requested changes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "topicName": "Legal Affairs",
+    "thumbnail": "legal-affairs.webp",
+    "listVocabulary": [
+      {
+        "word": "litigation",
+        "variants": [
+          {
+            "pronunciation": "/ˌlɪtɪˈɡeɪʃn/",
+            "meaning": "kiện tụng",
+            "partOfSpeech": "noun",
+            "example": "The company avoided costly litigation."
+          }
+        ]
+      },
+      {
+        "word": "attorney",
+        "variants": [
+          {
+            "pronunciation": "/əˈtɜːrni/",
+            "meaning": "luật sư",
+            "partOfSpeech": "noun",
+            "example": "Our attorney reviewed the documents."
+          }
+        ]
+      },
+      {
+        "word": "compliance",
+        "variants": [
+          {
+            "pronunciation": "/kəmˈplaɪəns/",
+            "meaning": "tuân thủ",
+            "partOfSpeech": "noun",
+            "example": "Compliance training is mandatory."
+          }
+        ]
+      },
+      {
+        "word": "regulation",
+        "variants": [
+          {
+            "pronunciation": "/ˌreɡjuˈleɪʃn/",
+            "meaning": "quy định",
+            "partOfSpeech": "noun",
+            "example": "New regulations take effect in July."
+          }
+        ]
+      },
+      {
+        "word": "lawsuit",
+        "variants": [
+          {
+            "pronunciation": "/ˈlɔːsuːt/",
+            "meaning": "vụ kiện",
+            "partOfSpeech": "noun",
+            "example": "A lawsuit was filed last week."
+          }
+        ]
+      },
+      {
+        "word": "settlement",
+        "variants": [
+          {
+            "pronunciation": "/ˈsetlmənt/",
+            "meaning": "thỏa thuận dàn xếp",
+            "partOfSpeech": "noun",
+            "example": "They reached a settlement out of court."
+          }
+        ]
+      },
+      {
+        "word": "plaintiff",
+        "variants": [
+          {
+            "pronunciation": "/ˈpleɪntɪf/",
+            "meaning": "nguyên đơn",
+            "partOfSpeech": "noun",
+            "example": "The plaintiff sought damages."
+          }
+        ]
+      },
+      {
+        "word": "defendant",
+        "variants": [
+          {
+            "pronunciation": "/dɪˈfendənt/",
+            "meaning": "bị đơn",
+            "partOfSpeech": "noun",
+            "example": "The defendant denied the allegations."
+          }
+        ]
+      },
+      {
+        "word": "verdict",
+        "variants": [
+          {
+            "pronunciation": "/ˈvɜːrdɪkt/",
+            "meaning": "phán quyết",
+            "partOfSpeech": "noun",
+            "example": "The jury returned a verdict today."
+          }
+        ]
+      },
+      {
+        "word": "appeal",
+        "variants": [
+          {
+            "pronunciation": "/əˈpiːl/",
+            "meaning": "kháng cáo",
+            "partOfSpeech": "noun",
+            "example": "The firm filed an appeal."
+          }
+        ]
+      },
+      {
+        "word": "statute",
+        "variants": [
+          {
+            "pronunciation": "/ˈstætʃuːt/",
+            "meaning": "đạo luật",
+            "partOfSpeech": "noun",
+            "example": "The statute limits liability."
+          }
+        ]
+      },
+      {
+        "word": "jurisdiction",
+        "variants": [
+          {
+            "pronunciation": "/ˌdʒʊrɪsˈdɪkʃn/",
+            "meaning": "thẩm quyền tài phán",
+            "partOfSpeech": "noun",
+            "example": "Jurisdiction lies with the local court."
+          }
+        ]
+      },
+      {
+        "word": "indemnity",
+        "variants": [
+          {
+            "pronunciation": "/ɪnˈdemnəti/",
+            "meaning": "bồi thường",
+            "partOfSpeech": "noun",
+            "example": "The contract includes an indemnity clause."
+          }
+        ]
+      },
+      {
+        "word": "intellectual property",
+        "variants": [
+          {
+            "pronunciation": "/ˌɪntəˈlektʃuəl ˈprɑːpərti/",
+            "meaning": "sở hữu trí tuệ",
+            "partOfSpeech": "phrase",
+            "example": "Intellectual property must be registered."
+          }
+        ]
+      },
+      {
+        "word": "notarize",
+        "variants": [
+          {
+            "pronunciation": "/ˈnoʊtəraɪz/",
+            "meaning": "công chứng",
+            "partOfSpeech": "verb",
+            "example": "Please notarize the signed form."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "topicName": "Insurance",
+    "thumbnail": "insurance.webp",
+    "listVocabulary": [
+      {
+        "word": "policy",
+        "variants": [
+          {
+            "pronunciation": "/ˈpɑːləsi/",
+            "meaning": "hợp đồng bảo hiểm",
+            "partOfSpeech": "noun",
+            "example": "Read your policy before filing a claim."
+          }
+        ]
+      },
+      {
+        "word": "premium",
+        "variants": [
+          {
+            "pronunciation": "/ˈpriːmiəm/",
+            "meaning": "phí bảo hiểm",
+            "partOfSpeech": "noun",
+            "example": "The premium is due monthly."
+          }
+        ]
+      },
+      {
+        "word": "claim",
+        "variants": [
+          {
+            "pronunciation": "/kleɪm/",
+            "meaning": "yêu cầu bồi thường",
+            "partOfSpeech": "noun",
+            "example": "She filed a claim after the accident."
+          }
+        ]
+      },
+      {
+        "word": "coverage",
+        "variants": [
+          {
+            "pronunciation": "/ˈkʌvərɪdʒ/",
+            "meaning": "phạm vi bảo hiểm",
+            "partOfSpeech": "noun",
+            "example": "Coverage includes medical expenses."
+          }
+        ]
+      },
+      {
+        "word": "deductible",
+        "variants": [
+          {
+            "pronunciation": "/dɪˈdʌktəbl/",
+            "meaning": "mức khấu trừ",
+            "partOfSpeech": "noun",
+            "example": "The deductible is five hundred dollars."
+          }
+        ]
+      },
+      {
+        "word": "beneficiary",
+        "variants": [
+          {
+            "pronunciation": "/ˌbenɪˈfɪʃieri/",
+            "meaning": "người thụ hưởng",
+            "partOfSpeech": "noun",
+            "example": "Name a beneficiary on the form."
+          }
+        ]
+      },
+      {
+        "word": "underwriter",
+        "variants": [
+          {
+            "pronunciation": "/ˈʌndəraɪtər/",
+            "meaning": "nhà bảo hiểm",
+            "partOfSpeech": "noun",
+            "example": "The underwriter approved the policy."
+          }
+        ]
+      },
+      {
+        "word": "insurer",
+        "variants": [
+          {
+            "pronunciation": "/ɪnˈʃʊrər/",
+            "meaning": "công ty bảo hiểm",
+            "partOfSpeech": "noun",
+            "example": "Contact your insurer for details."
+          }
+        ]
+      },
+      {
+        "word": "risk assessment",
+        "variants": [
+          {
+            "pronunciation": "/rɪsk əˈsesmənt/",
+            "meaning": "đánh giá rủi ro",
+            "partOfSpeech": "phrase",
+            "example": "Risk assessment lowered the premium."
+          }
+        ]
+      },
+      {
+        "word": "liability insurance",
+        "variants": [
+          {
+            "pronunciation": "/ˌlaɪəˈbɪləti ɪnˈʃʊrəns/",
+            "meaning": "bảo hiểm trách nhiệm",
+            "partOfSpeech": "phrase",
+            "example": "Liability insurance is required."
+          }
+        ]
+      },
+      {
+        "word": "renew",
+        "variants": [
+          {
+            "pronunciation": "/rɪˈnuː/",
+            "meaning": "gia hạn bảo hiểm",
+            "partOfSpeech": "verb",
+            "example": "Renew your policy before it expires."
+          }
+        ]
+      },
+      {
+        "word": "exclusion",
+        "variants": [
+          {
+            "pronunciation": "/ɪkˈskluːʒn/",
+            "meaning": "điều khoản loại trừ",
+            "partOfSpeech": "noun",
+            "example": "Check exclusions in the policy."
+          }
+        ]
+      },
+      {
+        "word": "adjuster",
+        "variants": [
+          {
+            "pronunciation": "/əˈdʒʌstər/",
+            "meaning": "điều tra viên bồi thường",
+            "partOfSpeech": "noun",
+            "example": "An adjuster inspected the damage."
+          }
+        ]
+      },
+      {
+        "word": "copay",
+        "variants": [
+          {
+            "pronunciation": "/ˈkoʊpeɪ/",
+            "meaning": "đồng chi trả",
+            "partOfSpeech": "noun",
+            "example": "The copay for each visit is twenty dollars."
+          }
+        ]
+      },
+      {
+        "word": "insure",
+        "variants": [
+          {
+            "pronunciation": "/ɪnˈʃʊr/",
+            "meaning": "bảo hiểm",
+            "partOfSpeech": "verb",
+            "example": "The shipment was insured for full value."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "topicName": "Manufacturing",
+    "thumbnail": "manufacturing.webp",
+    "listVocabulary": [
+      {
+        "word": "assembly",
+        "variants": [
+          {
+            "pronunciation": "/əˈsembli/",
+            "meaning": "lắp ráp",
+            "partOfSpeech": "noun",
+            "example": "Assembly takes place on line three."
+          }
+        ]
+      },
+      {
+        "word": "production",
+        "variants": [
+          {
+            "pronunciation": "/prəˈdʌkʃn/",
+            "meaning": "sản xuất",
+            "partOfSpeech": "noun",
+            "example": "Production increased after the upgrade."
+          }
+        ]
+      },
+      {
+        "word": "factory",
+        "variants": [
+          {
+            "pronunciation": "/ˈfæktri/",
+            "meaning": "nhà máy",
+            "partOfSpeech": "noun",
+            "example": "The factory operates twenty-four hours."
+          }
+        ]
+      },
+      {
+        "word": "machinery",
+        "variants": [
+          {
+            "pronunciation": "/məˈʃiːnəri/",
+            "meaning": "máy móc",
+            "partOfSpeech": "noun",
+            "example": "New machinery boosted output."
+          }
+        ]
+      },
+      {
+        "word": "raw material",
+        "variants": [
+          {
+            "pronunciation": "/rɔː məˈtɪriəl/",
+            "meaning": "nguyên liệu thô",
+            "partOfSpeech": "phrase",
+            "example": "Raw material costs rose sharply."
+          }
+        ]
+      },
+      {
+        "word": "output",
+        "variants": [
+          {
+            "pronunciation": "/ˈaʊtpʊt/",
+            "meaning": "sản lượng",
+            "partOfSpeech": "noun",
+            "example": "Daily output reached five thousand units."
+          }
+        ]
+      },
+      {
+        "word": "batch",
+        "variants": [
+          {
+            "pronunciation": "/bætʃ/",
+            "meaning": "lô sản xuất",
+            "partOfSpeech": "noun",
+            "example": "The first batch passed inspection."
+          }
+        ]
+      },
+      {
+        "word": "automation",
+        "variants": [
+          {
+            "pronunciation": "/ˌɔːtəˈmeɪʃn/",
+            "meaning": "tự động hóa",
+            "partOfSpeech": "noun",
+            "example": "Automation reduced labor costs."
+          }
+        ]
+      },
+      {
+        "word": "shift",
+        "variants": [
+          {
+            "pronunciation": "/ʃɪft/",
+            "meaning": "ca làm việc",
+            "partOfSpeech": "noun",
+            "example": "The night shift starts at ten p.m."
+          }
+        ]
+      },
+      {
+        "word": "overtime",
+        "variants": [
+          {
+            "pronunciation": "/ˈoʊvərtaɪm/",
+            "meaning": "làm thêm giờ",
+            "partOfSpeech": "noun",
+            "example": "Overtime was approved for the rush order."
+          }
+        ]
+      },
+      {
+        "word": "fabrication",
+        "variants": [
+          {
+            "pronunciation": "/ˌfæbrɪˈkeɪʃn/",
+            "meaning": "gia công",
+            "partOfSpeech": "noun",
+            "example": "Metal fabrication occurs on site."
+          }
+        ]
+      },
+      {
+        "word": "plant",
+        "variants": [
+          {
+            "pronunciation": "/plænt/",
+            "meaning": "nhà máy",
+            "partOfSpeech": "noun",
+            "example": "The plant reopened after maintenance."
+          }
+        ]
+      },
+      {
+        "word": "capacity",
+        "variants": [
+          {
+            "pronunciation": "/kəˈpæsəti/",
+            "meaning": "công suất",
+            "partOfSpeech": "noun",
+            "example": "Capacity will expand next year."
+          }
+        ]
+      },
+      {
+        "word": "tooling",
+        "variants": [
+          {
+            "pronunciation": "/ˈtuːlɪŋ/",
+            "meaning": "khuôn/dụng cụ",
+            "partOfSpeech": "noun",
+            "example": "New tooling shortened cycle time."
+          }
+        ]
+      },
+      {
+        "word": "work order",
+        "variants": [
+          {
+            "pronunciation": "/wɜːrk ˈɔːrdər/",
+            "meaning": "lệnh sản xuất",
+            "partOfSpeech": "phrase",
+            "example": "Complete the work order by Friday."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,862 @@
+[
+  {
+    "id": 31,
+    "topicName": "Construction",
+    "thumbnail": "construction.webp",
+    "listVocabulary": [
+      {
+        "word": "contractor",
+        "variants": [
+          {
+            "pronunciation": "/kənˈtræktər/",
+            "meaning": "nhà thầu",
+            "partOfSpeech": "noun",
+            "example": "The contractor broke ground in April."
+          }
+        ]
+      },
+      {
+        "word": "blueprint",
+        "variants": [
+          {
+            "pronunciation": "/ˈbluːprɪnt/",
+            "meaning": "bản vẽ thiết kế",
+            "partOfSpeech": "noun",
+            "example": "Review the blueprint before ordering materials."
+          }
+        ]
+      },
+      {
+        "word": "scaffold",
+        "variants": [
+          {
+            "pronunciation": "/ˈskæfoʊld/",
+            "meaning": "giàn giáo",
+            "partOfSpeech": "noun",
+            "example": "Workers assembled the scaffold safely."
+          }
+        ]
+      },
+      {
+        "word": "foundation",
+        "variants": [
+          {
+            "pronunciation": "/faʊnˈdeɪʃn/",
+            "meaning": "móng",
+            "partOfSpeech": "noun",
+            "example": "The foundation was poured last week."
+          }
+        ]
+      },
+      {
+        "word": "permit",
+        "variants": [
+          {
+            "pronunciation": "/ˈpɜːrmɪt/",
+            "meaning": "giấy phép xây dựng",
+            "partOfSpeech": "noun",
+            "example": "A building permit is required."
+          }
+        ]
+      },
+      {
+        "word": "commissioning",
+        "variants": [
+          {
+            "pronunciation": "/ˌkɑːməˈnɪʃn/",
+            "meaning": "nghiệm thu công trình",
+            "partOfSpeech": "noun",
+            "example": "Final commissioning is scheduled for Tuesday."
+          }
+        ]
+      },
+      {
+        "word": "renovate",
+        "variants": [
+          {
+            "pronunciation": "/ˈrenəveɪt/",
+            "meaning": "cải tạo",
+            "partOfSpeech": "verb",
+            "example": "We will renovate the lobby this year."
+          }
+        ]
+      },
+      {
+        "word": "demolition",
+        "variants": [
+          {
+            "pronunciation": "/ˌdeməˈlɪʃn/",
+            "meaning": "phá dỡ",
+            "partOfSpeech": "noun",
+            "example": "Demolition begins after permits are issued."
+          }
+        ]
+      },
+      {
+        "word": "crane",
+        "variants": [
+          {
+            "pronunciation": "/kreɪn/",
+            "meaning": "cần cẩu",
+            "partOfSpeech": "noun",
+            "example": "A crane lifted steel beams into place."
+          }
+        ]
+      },
+      {
+        "word": "concrete",
+        "variants": [
+          {
+            "pronunciation": "/ˈkɑːnkriːt/",
+            "meaning": "bê tông",
+            "partOfSpeech": "noun",
+            "example": "Concrete must cure for seven days."
+          }
+        ]
+      },
+      {
+        "word": "beam",
+        "variants": [
+          {
+            "pronunciation": "/biːm/",
+            "meaning": "dầm",
+            "partOfSpeech": "noun",
+            "example": "Steel beams support the upper floor."
+          }
+        ]
+      },
+      {
+        "word": "site supervisor",
+        "variants": [
+          {
+            "pronunciation": "/saɪt ˈsuːpərvaɪzər/",
+            "meaning": "giám sát công trường",
+            "partOfSpeech": "phrase",
+            "example": "The site supervisor reports daily progress."
+          }
+        ]
+      },
+      {
+        "word": "change order",
+        "variants": [
+          {
+            "pronunciation": "/tʃeɪndʒ ˈɔːrdər/",
+            "meaning": "phát sinh công việc",
+            "partOfSpeech": "phrase",
+            "example": "Submit a change order for extra work."
+          }
+        ]
+      },
+      {
+        "word": "punch list",
+        "variants": [
+          {
+            "pronunciation": "/pʌntʃ lɪst/",
+            "meaning": "hạng mục hoàn thiện",
+            "partOfSpeech": "phrase",
+            "example": "The punch list has twelve remaining items."
+          }
+        ]
+      },
+      {
+        "word": "occupancy permit",
+        "variants": [
+          {
+            "pronunciation": "/ˈɑːkjəpənsi ˈpɜːrmɪt/",
+            "meaning": "giấy cấp phép sử dụng",
+            "partOfSpeech": "phrase",
+            "example": "The occupancy permit was issued today."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "topicName": "Technology",
+    "thumbnail": "technology.webp",
+    "listVocabulary": [
+      {
+        "word": "hardware",
+        "variants": [
+          {
+            "pronunciation": "/ˈhɑːrdwer/",
+            "meaning": "phần cứng",
+            "partOfSpeech": "noun",
+            "example": "New hardware was installed in the lab."
+          }
+        ]
+      },
+      {
+        "word": "software",
+        "variants": [
+          {
+            "pronunciation": "/ˈsɔːftwer/",
+            "meaning": "phần mềm",
+            "partOfSpeech": "noun",
+            "example": "The software update fixes several bugs."
+          }
+        ]
+      },
+      {
+        "word": "device",
+        "variants": [
+          {
+            "pronunciation": "/dɪˈvaɪs/",
+            "meaning": "thiết bị",
+            "partOfSpeech": "noun",
+            "example": "Each device must be registered."
+          }
+        ]
+      },
+      {
+        "word": "upgrade",
+        "variants": [
+          {
+            "pronunciation": "/ˈʌpɡreɪd/",
+            "meaning": "nâng cấp",
+            "partOfSpeech": "noun",
+            "example": "The system upgrade runs overnight."
+          }
+        ]
+      },
+      {
+        "word": "integration",
+        "variants": [
+          {
+            "pronunciation": "/ˌɪntɪˈɡreɪʃn/",
+            "meaning": "tích hợp",
+            "partOfSpeech": "noun",
+            "example": "Integration with payroll took two weeks."
+          }
+        ]
+      },
+      {
+        "word": "database",
+        "variants": [
+          {
+            "pronunciation": "/ˈdeɪtəbeɪs/",
+            "meaning": "cơ sở dữ liệu",
+            "partOfSpeech": "noun",
+            "example": "Customer records are stored in the database."
+          }
+        ]
+      },
+      {
+        "word": "mainframe",
+        "variants": [
+          {
+            "pronunciation": "/ˈmeɪnfreɪm/",
+            "meaning": "máy chủ lớn",
+            "partOfSpeech": "noun",
+            "example": "The mainframe will restart at midnight."
+          }
+        ]
+      },
+      {
+        "word": "backup",
+        "variants": [
+          {
+            "pronunciation": "/ˈbækʌp/",
+            "meaning": "sao lưu",
+            "partOfSpeech": "noun",
+            "example": "Daily backup protects critical data."
+          }
+        ]
+      },
+      {
+        "word": "encryption",
+        "variants": [
+          {
+            "pronunciation": "/ɪnˈkrɪpʃn/",
+            "meaning": "mã hóa",
+            "partOfSpeech": "noun",
+            "example": "Encryption secures sensitive files."
+          }
+        ]
+      },
+      {
+        "word": "malware",
+        "variants": [
+          {
+            "pronunciation": "/ˈmælwer/",
+            "meaning": "phần mềm độc hại",
+            "partOfSpeech": "noun",
+            "example": "Malware was detected on one laptop."
+          }
+        ]
+      },
+      {
+        "word": "firewall",
+        "variants": [
+          {
+            "pronunciation": "/ˈfaɪərwɔːl/",
+            "meaning": "tường lửa",
+            "partOfSpeech": "noun",
+            "example": "The firewall blocked unauthorized access."
+          }
+        ]
+      },
+      {
+        "word": "bandwidth",
+        "variants": [
+          {
+            "pronunciation": "/ˈbændwɪdθ/",
+            "meaning": "băng thông",
+            "partOfSpeech": "noun",
+            "example": "Video calls require more bandwidth."
+          }
+        ]
+      },
+      {
+        "word": "IT support",
+        "variants": [
+          {
+            "pronunciation": "/ˌaɪ ˈtiː səˈpɔːrt/",
+            "meaning": "hỗ trợ CNTT",
+            "partOfSpeech": "phrase",
+            "example": "Contact IT support for password resets."
+          }
+        ]
+      },
+      {
+        "word": "troubleshoot",
+        "variants": [
+          {
+            "pronunciation": "/ˈtrʌblʃuːt/",
+            "meaning": "xử lý sự cố",
+            "partOfSpeech": "verb",
+            "example": "Technicians troubleshoot network issues daily."
+          }
+        ]
+      },
+      {
+        "word": "legacy system",
+        "variants": [
+          {
+            "pronunciation": "/ˈleɡəsi ˈsɪstəm/",
+            "meaning": "hệ thống cũ",
+            "partOfSpeech": "phrase",
+            "example": "The legacy system will be replaced next year."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "topicName": "Internet & Software",
+    "thumbnail": "internet-software.webp",
+    "listVocabulary": [
+      {
+        "word": "website",
+        "variants": [
+          {
+            "pronunciation": "/ˈwebsaɪt/",
+            "meaning": "trang web",
+            "partOfSpeech": "noun",
+            "example": "Visit our website for product details."
+          }
+        ]
+      },
+      {
+        "word": "browser",
+        "variants": [
+          {
+            "pronunciation": "/ˈbraʊzər/",
+            "meaning": "trình duyệt",
+            "partOfSpeech": "noun",
+            "example": "Update your browser for better security."
+          }
+        ]
+      },
+      {
+        "word": "download",
+        "variants": [
+          {
+            "pronunciation": "/ˌdaʊnˈloʊd/",
+            "meaning": "tải xuống",
+            "partOfSpeech": "verb",
+            "example": "Download the form from the portal."
+          }
+        ]
+      },
+      {
+        "word": "upload",
+        "variants": [
+          {
+            "pronunciation": "/ˌʌpˈloʊd/",
+            "meaning": "tải lên",
+            "partOfSpeech": "verb",
+            "example": "Upload signed documents by Friday."
+          }
+        ]
+      },
+      {
+        "word": "subscription",
+        "variants": [
+          {
+            "pronunciation": "/səbˈskrɪpʃn/",
+            "meaning": "đăng ký dịch vụ",
+            "partOfSpeech": "noun",
+            "example": "Your subscription renews automatically."
+          }
+        ]
+      },
+      {
+        "word": "cloud storage",
+        "variants": [
+          {
+            "pronunciation": "/klaʊd ˈstɔːrɪdʒ/",
+            "meaning": "lưu trữ đám mây",
+            "partOfSpeech": "phrase",
+            "example": "Files sync to cloud storage nightly."
+          }
+        ]
+      },
+      {
+        "word": "username",
+        "variants": [
+          {
+            "pronunciation": "/ˈjuːzərneɪm/",
+            "meaning": "tên đăng nhập",
+            "partOfSpeech": "noun",
+            "example": "Enter your username and password."
+          }
+        ]
+      },
+      {
+        "word": "password",
+        "variants": [
+          {
+            "pronunciation": "/ˈpæswɜːrd/",
+            "meaning": "mật khẩu",
+            "partOfSpeech": "noun",
+            "example": "Reset your password every ninety days."
+          }
+        ]
+      },
+      {
+        "word": "plugin",
+        "variants": [
+          {
+            "pronunciation": "/ˈplʌɡɪn/",
+            "meaning": "tiện ích mở rộng",
+            "partOfSpeech": "noun",
+            "example": "Install the plugin to export reports."
+          }
+        ]
+      },
+      {
+        "word": "interface",
+        "variants": [
+          {
+            "pronunciation": "/ˈɪntərfeɪs/",
+            "meaning": "giao diện",
+            "partOfSpeech": "noun",
+            "example": "The new interface is easier to use."
+          }
+        ]
+      },
+      {
+        "word": "bug fix",
+        "variants": [
+          {
+            "pronunciation": "/bʌɡ fɪks/",
+            "meaning": "sửa lỗi",
+            "partOfSpeech": "phrase",
+            "example": "The latest release includes a bug fix."
+          }
+        ]
+      },
+      {
+        "word": "SaaS",
+        "variants": [
+          {
+            "pronunciation": "/sæs/",
+            "meaning": "phần mềm dịch vụ",
+            "partOfSpeech": "noun",
+            "example": "We migrated payroll to a SaaS platform."
+          }
+        ]
+      },
+      {
+        "word": "API",
+        "variants": [
+          {
+            "pronunciation": "/ˌeɪ piː ˈaɪ/",
+            "meaning": "giao diện lập trình",
+            "partOfSpeech": "noun",
+            "example": "Developers access data through the API."
+          }
+        ]
+      },
+      {
+        "word": "dashboard",
+        "variants": [
+          {
+            "pronunciation": "/ˈdæʃbɔːrd/",
+            "meaning": "bảng điều khiển",
+            "partOfSpeech": "noun",
+            "example": "The dashboard shows real-time sales."
+          }
+        ]
+      },
+      {
+        "word": "automation tool",
+        "variants": [
+          {
+            "pronunciation": "/ˌɔːtəˈmeɪʃn tuːl/",
+            "meaning": "công cụ tự động hóa",
+            "partOfSpeech": "phrase",
+            "example": "An automation tool sends reminder emails."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "topicName": "Telecommunications",
+    "thumbnail": "telecommunications.webp",
+    "listVocabulary": [
+      {
+        "word": "broadband",
+        "variants": [
+          {
+            "pronunciation": "/ˈbrɔːdbænd/",
+            "meaning": "băng thông rộng",
+            "partOfSpeech": "noun",
+            "example": "Broadband service was restored this morning."
+          }
+        ]
+      },
+      {
+        "word": "landline",
+        "variants": [
+          {
+            "pronunciation": "/ˈlændlaɪn/",
+            "meaning": "điện thoại cố định",
+            "partOfSpeech": "noun",
+            "example": "The office still uses a landline."
+          }
+        ]
+      },
+      {
+        "word": "voicemail",
+        "variants": [
+          {
+            "pronunciation": "/ˈvɔɪsmeɪl/",
+            "meaning": "thư thoại",
+            "partOfSpeech": "noun",
+            "example": "Leave a voicemail if no one answers."
+          }
+        ]
+      },
+      {
+        "word": "extension",
+        "variants": [
+          {
+            "pronunciation": "/ɪkˈstenʃn/",
+            "meaning": "số máy lẻ",
+            "partOfSpeech": "noun",
+            "example": "Dial extension 204 for billing."
+          }
+        ]
+      },
+      {
+        "word": "roaming",
+        "variants": [
+          {
+            "pronunciation": "/ˈroʊmɪŋ/",
+            "meaning": "chuyển vùng",
+            "partOfSpeech": "noun",
+            "example": "Roaming charges apply abroad."
+          }
+        ]
+      },
+      {
+        "word": "cell tower",
+        "variants": [
+          {
+            "pronunciation": "/sel ˈtaʊər/",
+            "meaning": "trạm phát sóng",
+            "partOfSpeech": "phrase",
+            "example": "A new cell tower improved coverage."
+          }
+        ]
+      },
+      {
+        "word": "fiber optic",
+        "variants": [
+          {
+            "pronunciation": "/ˈfaɪbər ˈɑːptɪk/",
+            "meaning": "cáp quang",
+            "partOfSpeech": "phrase",
+            "example": "Fiber optic lines reach the building."
+          }
+        ]
+      },
+      {
+        "word": "ISP",
+        "variants": [
+          {
+            "pronunciation": "/ˌaɪ es ˈpiː/",
+            "meaning": "nhà cung cấp internet",
+            "partOfSpeech": "noun",
+            "example": "Our ISP upgraded the connection speed."
+          }
+        ]
+      },
+      {
+        "word": "downtime",
+        "variants": [
+          {
+            "pronunciation": "/ˈdaʊntaɪm/",
+            "meaning": "gián đoạn dịch vụ",
+            "partOfSpeech": "noun",
+            "example": "Network downtime lasted twenty minutes."
+          }
+        ]
+      },
+      {
+        "word": "hotspot",
+        "variants": [
+          {
+            "pronunciation": "/ˈhɑːtspɑːt/",
+            "meaning": "điểm phát Wi-Fi",
+            "partOfSpeech": "noun",
+            "example": "Guests can connect to the hotel hotspot."
+          }
+        ]
+      },
+      {
+        "word": "conference bridge",
+        "variants": [
+          {
+            "pronunciation": "/ˈkɑːnfərəns brɪdʒ/",
+            "meaning": "cầu nối hội nghị",
+            "partOfSpeech": "phrase",
+            "example": "Join the conference bridge at nine."
+          }
+        ]
+      },
+      {
+        "word": "signal",
+        "variants": [
+          {
+            "pronunciation": "/ˈsɪɡnəl/",
+            "meaning": "tín hiệu",
+            "partOfSpeech": "noun",
+            "example": "The signal is weak in the basement."
+          }
+        ]
+      },
+      {
+        "word": "handset",
+        "variants": [
+          {
+            "pronunciation": "/ˈhændset/",
+            "meaning": "ống nghe",
+            "partOfSpeech": "noun",
+            "example": "Replace the faulty handset at desk three."
+          }
+        ]
+      },
+      {
+        "word": "telecom provider",
+        "variants": [
+          {
+            "pronunciation": "/ˈtelikɑːm prəˈvaɪdər/",
+            "meaning": "nhà mạng",
+            "partOfSpeech": "phrase",
+            "example": "The telecom provider fixed the outage."
+          }
+        ]
+      },
+      {
+        "word": "data plan",
+        "variants": [
+          {
+            "pronunciation": "/ˈdeɪtə plæn/",
+            "meaning": "gói dữ liệu",
+            "partOfSpeech": "phrase",
+            "example": "Upgrade to a larger data plan."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "topicName": "Education",
+    "thumbnail": "education.webp",
+    "listVocabulary": [
+      {
+        "word": "registration",
+        "variants": [
+          {
+            "pronunciation": "/ˌredʒɪˈstreɪʃn/",
+            "meaning": "ghi danh",
+            "partOfSpeech": "noun",
+            "example": "Course registration closes at the end of May."
+          }
+        ]
+      },
+      {
+        "word": "tuition",
+        "variants": [
+          {
+            "pronunciation": "/tuˈɪʃn/",
+            "meaning": "học phí",
+            "partOfSpeech": "noun",
+            "example": "Tuition fees increase next semester."
+          }
+        ]
+      },
+      {
+        "word": "scholarship",
+        "variants": [
+          {
+            "pronunciation": "/ˈskɑːlərʃɪp/",
+            "meaning": "học bổng",
+            "partOfSpeech": "noun",
+            "example": "She received a full scholarship."
+          }
+        ]
+      },
+      {
+        "word": "faculty",
+        "variants": [
+          {
+            "pronunciation": "/ˈfæklti/",
+            "meaning": "giảng viên",
+            "partOfSpeech": "noun",
+            "example": "Faculty meet every Monday morning."
+          }
+        ]
+      },
+      {
+        "word": "lecture",
+        "variants": [
+          {
+            "pronunciation": "/ˈlektʃər/",
+            "meaning": "bài giảng",
+            "partOfSpeech": "noun",
+            "example": "The lecture starts at nine a.m."
+          }
+        ]
+      },
+      {
+        "word": "syllabus",
+        "variants": [
+          {
+            "pronunciation": "/ˈsɪləbəs/",
+            "meaning": "đề cương môn học",
+            "partOfSpeech": "noun",
+            "example": "The syllabus lists all assignments."
+          }
+        ]
+      },
+      {
+        "word": "accreditation",
+        "variants": [
+          {
+            "pronunciation": "/əˌkredɪˈteɪʃn/",
+            "meaning": "công nhận chất lượng",
+            "partOfSpeech": "noun",
+            "example": "The program earned national accreditation."
+          }
+        ]
+      },
+      {
+        "word": "campus",
+        "variants": [
+          {
+            "pronunciation": "/ˈkæmpəs/",
+            "meaning": "khuôn viên trường",
+            "partOfSpeech": "noun",
+            "example": "The campus tour begins at the library."
+          }
+        ]
+      },
+      {
+        "word": "registrar",
+        "variants": [
+          {
+            "pronunciation": "/ˈredʒɪstrɑːr/",
+            "meaning": "phòng đào tạo",
+            "partOfSpeech": "noun",
+            "example": "Submit forms to the registrar."
+          }
+        ]
+      },
+      {
+        "word": "transcript",
+        "variants": [
+          {
+            "pronunciation": "/ˈtrænskrɪpt/",
+            "meaning": "bảng điểm",
+            "partOfSpeech": "noun",
+            "example": "Request an official transcript online."
+          }
+        ]
+      },
+      {
+        "word": "alumni",
+        "variants": [
+          {
+            "pronunciation": "/əˈlʌmnaɪ/",
+            "meaning": "cựu sinh viên",
+            "partOfSpeech": "noun",
+            "example": "Alumni are invited to the reunion."
+          }
+        ]
+      },
+      {
+        "word": "placement test",
+        "variants": [
+          {
+            "pronunciation": "/ˈpleɪsmənt test/",
+            "meaning": "bài test xếp lớp",
+            "partOfSpeech": "phrase",
+            "example": "New students take a placement test."
+          }
+        ]
+      },
+      {
+        "word": "continuing education",
+        "variants": [
+          {
+            "pronunciation": "/kənˈtɪnjuːɪŋ ˌedʒuˈkeɪʃn/",
+            "meaning": "đào tạo liên tục",
+            "partOfSpeech": "phrase",
+            "example": "Continuing education courses start in June."
+          }
+        ]
+      },
+      {
+        "word": "dean",
+        "variants": [
+          {
+            "pronunciation": "/diːn/",
+            "meaning": "trưởng khoa",
+            "partOfSpeech": "noun",
+            "example": "The dean approved the new program."
+          }
+        ]
+      },
+      {
+        "word": "graduation",
+        "variants": [
+          {
+            "pronunciation": "/ˌɡrædʒuˈeɪʃn/",
+            "meaning": "lễ tốt nghiệp",
+            "partOfSpeech": "noun",
+            "example": "Graduation ceremonies are held in May."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,862 @@
+[
+  {
+    "id": 11,
+    "topicName": "Investment",
+    "thumbnail": "investment.webp",
+    "listVocabulary": [
+      {
+        "word": "portfolio",
+        "variants": [
+          {
+            "pronunciation": "/pɔːrtˈfoʊlioʊ/",
+            "meaning": "danh mục đầu tư",
+            "partOfSpeech": "noun",
+            "example": "She diversified her investment portfolio."
+          }
+        ]
+      },
+      {
+        "word": "dividend",
+        "variants": [
+          {
+            "pronunciation": "/ˈdɪvɪdend/",
+            "meaning": "cổ tức",
+            "partOfSpeech": "noun",
+            "example": "The company raised its dividend this year."
+          }
+        ]
+      },
+      {
+        "word": "stock",
+        "variants": [
+          {
+            "pronunciation": "/stɑːk/",
+            "meaning": "cổ phiếu",
+            "partOfSpeech": "noun",
+            "example": "Stock prices rose after the announcement."
+          }
+        ]
+      },
+      {
+        "word": "bond",
+        "variants": [
+          {
+            "pronunciation": "/bɑːnd/",
+            "meaning": "trái phiếu",
+            "partOfSpeech": "noun",
+            "example": "Government bonds offer stable returns."
+          }
+        ]
+      },
+      {
+        "word": "equity",
+        "variants": [
+          {
+            "pronunciation": "/ˈekwəti/",
+            "meaning": "vốn chủ sở hữu",
+            "partOfSpeech": "noun",
+            "example": "The firm sold equity to fund expansion."
+          }
+        ]
+      },
+      {
+        "word": "mutual fund",
+        "variants": [
+          {
+            "pronunciation": "/ˈmjuːtʃuəl fʌnd/",
+            "meaning": "quỹ tương hỗ",
+            "partOfSpeech": "phrase",
+            "example": "He invests through a mutual fund."
+          }
+        ]
+      },
+      {
+        "word": "broker",
+        "variants": [
+          {
+            "pronunciation": "/ˈbroʊkər/",
+            "meaning": "môi giới",
+            "partOfSpeech": "noun",
+            "example": "Contact your broker before trading."
+          }
+        ]
+      },
+      {
+        "word": "yield",
+        "variants": [
+          {
+            "pronunciation": "/jiːld/",
+            "meaning": "lợi suất",
+            "partOfSpeech": "noun",
+            "example": "The bond yield increased slightly."
+          }
+        ]
+      },
+      {
+        "word": "capital",
+        "variants": [
+          {
+            "pronunciation": "/ˈkæpɪtl/",
+            "meaning": "vốn",
+            "partOfSpeech": "noun",
+            "example": "We need more capital for the venture."
+          }
+        ]
+      },
+      {
+        "word": "return",
+        "variants": [
+          {
+            "pronunciation": "/rɪˈtɜːrn/",
+            "meaning": "lợi nhuận đầu tư",
+            "partOfSpeech": "noun",
+            "example": "Expected returns exceed ten percent."
+          }
+        ]
+      },
+      {
+        "word": "risk",
+        "variants": [
+          {
+            "pronunciation": "/rɪsk/",
+            "meaning": "rủi ro",
+            "partOfSpeech": "noun",
+            "example": "Higher risk often means higher reward."
+          }
+        ]
+      },
+      {
+        "word": "shareholder",
+        "variants": [
+          {
+            "pronunciation": "/ˈʃerhoʊldər/",
+            "meaning": "cổ đông",
+            "partOfSpeech": "noun",
+            "example": "Shareholders approved the merger."
+          }
+        ]
+      },
+      {
+        "word": "market",
+        "variants": [
+          {
+            "pronunciation": "/ˈmɑːrkɪt/",
+            "meaning": "thị trường",
+            "partOfSpeech": "noun",
+            "example": "The market recovered after the news."
+          }
+        ]
+      },
+      {
+        "word": "securities",
+        "variants": [
+          {
+            "pronunciation": "/sɪˈkjʊrətiz/",
+            "meaning": "chứng khoán",
+            "partOfSpeech": "noun",
+            "example": "Securities must be registered properly."
+          }
+        ]
+      },
+      {
+        "word": "venture",
+        "variants": [
+          {
+            "pronunciation": "/ˈventʃər/",
+            "meaning": "liên doanh",
+            "partOfSpeech": "noun",
+            "example": "They launched a joint venture abroad."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "topicName": "Marketing",
+    "thumbnail": "marketing.webp",
+    "listVocabulary": [
+      {
+        "word": "brand",
+        "variants": [
+          {
+            "pronunciation": "/brænd/",
+            "meaning": "thương hiệu",
+            "partOfSpeech": "noun",
+            "example": "The brand is recognized worldwide."
+          }
+        ]
+      },
+      {
+        "word": "campaign",
+        "variants": [
+          {
+            "pronunciation": "/kæmˈpeɪn/",
+            "meaning": "chiến dịch",
+            "partOfSpeech": "noun",
+            "example": "The marketing campaign starts in May."
+          }
+        ]
+      },
+      {
+        "word": "segment",
+        "variants": [
+          {
+            "pronunciation": "/ˈseɡmənt/",
+            "meaning": "phân khúc",
+            "partOfSpeech": "noun",
+            "example": "We target the youth segment."
+          }
+        ]
+      },
+      {
+        "word": "consumer",
+        "variants": [
+          {
+            "pronunciation": "/kənˈsuːmər/",
+            "meaning": "người tiêu dùng",
+            "partOfSpeech": "noun",
+            "example": "Consumer demand increased last quarter."
+          }
+        ]
+      },
+      {
+        "word": "survey",
+        "variants": [
+          {
+            "pronunciation": "/ˈsɜːrveɪ/",
+            "meaning": "khảo sát",
+            "partOfSpeech": "noun",
+            "example": "A customer survey was conducted online."
+          }
+        ]
+      },
+      {
+        "word": "outreach",
+        "variants": [
+          {
+            "pronunciation": "/ˈaʊtriːtʃ/",
+            "meaning": "tiếp cận khách hàng",
+            "partOfSpeech": "noun",
+            "example": "Community outreach built brand awareness."
+          }
+        ]
+      },
+      {
+        "word": "launch",
+        "variants": [
+          {
+            "pronunciation": "/lɔːntʃ/",
+            "meaning": "ra mắt",
+            "partOfSpeech": "verb",
+            "example": "We will launch the product next week."
+          }
+        ]
+      },
+      {
+        "word": "target",
+        "variants": [
+          {
+            "pronunciation": "/ˈtɑːrɡɪt/",
+            "meaning": "mục tiêu",
+            "partOfSpeech": "verb",
+            "example": "Ads target young professionals."
+          }
+        ]
+      },
+      {
+        "word": "market research",
+        "variants": [
+          {
+            "pronunciation": "/ˈmɑːrkɪt rɪˈsɜːrtʃ/",
+            "meaning": "nghiên cứu thị trường",
+            "partOfSpeech": "phrase",
+            "example": "Market research guided the strategy."
+          }
+        ]
+      },
+      {
+        "word": "demographic",
+        "variants": [
+          {
+            "pronunciation": "/ˌdeməˈɡræfɪk/",
+            "meaning": "nhân khẩu học",
+            "partOfSpeech": "noun",
+            "example": "Demographics show an aging population."
+          }
+        ]
+      },
+      {
+        "word": "loyalty",
+        "variants": [
+          {
+            "pronunciation": "/ˈlɔɪəlti/",
+            "meaning": "trung thành",
+            "partOfSpeech": "noun",
+            "example": "Brand loyalty drives repeat sales."
+          }
+        ]
+      },
+      {
+        "word": "positioning",
+        "variants": [
+          {
+            "pronunciation": "/pəˈzɪʃnɪŋ/",
+            "meaning": "định vị",
+            "partOfSpeech": "noun",
+            "example": "Clear positioning sets us apart."
+          }
+        ]
+      },
+      {
+        "word": "distribution",
+        "variants": [
+          {
+            "pronunciation": "/ˌdɪstrɪˈbjuːʃn/",
+            "meaning": "phân phối",
+            "partOfSpeech": "noun",
+            "example": "Distribution channels were expanded."
+          }
+        ]
+      },
+      {
+        "word": "pricing",
+        "variants": [
+          {
+            "pronunciation": "/ˈpraɪsɪŋ/",
+            "meaning": "định giá",
+            "partOfSpeech": "noun",
+            "example": "Competitive pricing boosted sales."
+          }
+        ]
+      },
+      {
+        "word": "packaging",
+        "variants": [
+          {
+            "pronunciation": "/ˈpækɪdʒɪŋ/",
+            "meaning": "bao bì",
+            "partOfSpeech": "noun",
+            "example": "New packaging attracted more buyers."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "topicName": "Advertising",
+    "thumbnail": "advertising.webp",
+    "listVocabulary": [
+      {
+        "word": "advertisement",
+        "variants": [
+          {
+            "pronunciation": "/ˌædvərˈtaɪzmənt/",
+            "meaning": "quảng cáo",
+            "partOfSpeech": "noun",
+            "example": "The advertisement appeared in a magazine."
+          }
+        ]
+      },
+      {
+        "word": "commercial",
+        "variants": [
+          {
+            "pronunciation": "/kəˈmɜːrʃl/",
+            "meaning": "quảng cáo truyền hình",
+            "partOfSpeech": "noun",
+            "example": "A new commercial aired last night."
+          }
+        ]
+      },
+      {
+        "word": "billboard",
+        "variants": [
+          {
+            "pronunciation": "/ˈbɪlbɔːrd/",
+            "meaning": "bảng quảng cáo",
+            "partOfSpeech": "noun",
+            "example": "A billboard was placed near the highway."
+          }
+        ]
+      },
+      {
+        "word": "banner",
+        "variants": [
+          {
+            "pronunciation": "/ˈbænər/",
+            "meaning": "banner quảng cáo",
+            "partOfSpeech": "noun",
+            "example": "Click the banner for more details."
+          }
+        ]
+      },
+      {
+        "word": "sponsor",
+        "variants": [
+          {
+            "pronunciation": "/ˈspɑːnsər/",
+            "meaning": "nhà tài trợ",
+            "partOfSpeech": "noun",
+            "example": "The event sponsor was announced today."
+          }
+        ]
+      },
+      {
+        "word": "publicity",
+        "variants": [
+          {
+            "pronunciation": "/pʌbˈlɪsəti/",
+            "meaning": "quảng bá",
+            "partOfSpeech": "noun",
+            "example": "The product received wide publicity."
+          }
+        ]
+      },
+      {
+        "word": "endorsement",
+        "variants": [
+          {
+            "pronunciation": "/ɪnˈdɔːrsmənt/",
+            "meaning": "tài trợ người nổi tiếng",
+            "partOfSpeech": "noun",
+            "example": "The athlete signed an endorsement deal."
+          }
+        ]
+      },
+      {
+        "word": "copy",
+        "variants": [
+          {
+            "pronunciation": "/ˈkɑːpi/",
+            "meaning": "nội dung quảng cáo",
+            "partOfSpeech": "noun",
+            "example": "The ad copy was revised twice."
+          }
+        ]
+      },
+      {
+        "word": "media",
+        "variants": [
+          {
+            "pronunciation": "/ˈmiːdiə/",
+            "meaning": "phương tiện truyền thông",
+            "partOfSpeech": "noun",
+            "example": "Social media ads reached millions."
+          }
+        ]
+      },
+      {
+        "word": "placement",
+        "variants": [
+          {
+            "pronunciation": "/ˈpleɪsmənt/",
+            "meaning": "vị trí quảng cáo",
+            "partOfSpeech": "noun",
+            "example": "Ad placement affects visibility."
+          }
+        ]
+      },
+      {
+        "word": "reach",
+        "variants": [
+          {
+            "pronunciation": "/riːtʃ/",
+            "meaning": "phạm vi tiếp cận",
+            "partOfSpeech": "noun",
+            "example": "The campaign expanded its reach."
+          }
+        ]
+      },
+      {
+        "word": "impression",
+        "variants": [
+          {
+            "pronunciation": "/ɪmˈpreʃn/",
+            "meaning": "lượt hiển thị",
+            "partOfSpeech": "noun",
+            "example": "Impressions doubled after the redesign."
+          }
+        ]
+      },
+      {
+        "word": "tagline",
+        "variants": [
+          {
+            "pronunciation": "/ˈtæɡlaɪn/",
+            "meaning": "khẩu hiệu",
+            "partOfSpeech": "noun",
+            "example": "The new tagline is easy to remember."
+          }
+        ]
+      },
+      {
+        "word": "jingle",
+        "variants": [
+          {
+            "pronunciation": "/ˈdʒɪŋɡl/",
+            "meaning": "điệu nhạc quảng cáo",
+            "partOfSpeech": "noun",
+            "example": "The jingle played on every radio station."
+          }
+        ]
+      },
+      {
+        "word": "airtime",
+        "variants": [
+          {
+            "pronunciation": "/ˈertaɪm/",
+            "meaning": "thời lượng phát sóng",
+            "partOfSpeech": "noun",
+            "example": "Prime airtime costs more."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "topicName": "Sales",
+    "thumbnail": "sales.webp",
+    "listVocabulary": [
+      {
+        "word": "quota",
+        "variants": [
+          {
+            "pronunciation": "/ˈkwoʊtə/",
+            "meaning": "chỉ tiêu bán hàng",
+            "partOfSpeech": "noun",
+            "example": "She exceeded her sales quota."
+          }
+        ]
+      },
+      {
+        "word": "commission",
+        "variants": [
+          {
+            "pronunciation": "/kəˈmɪʃn/",
+            "meaning": "hoa hồng",
+            "partOfSpeech": "noun",
+            "example": "Sales staff earn a ten percent commission."
+          }
+        ]
+      },
+      {
+        "word": "prospect",
+        "variants": [
+          {
+            "pronunciation": "/ˈprɑːspekt/",
+            "meaning": "khách hàng tiềm năng",
+            "partOfSpeech": "noun",
+            "example": "We identified several new prospects."
+          }
+        ]
+      },
+      {
+        "word": "negotiate",
+        "variants": [
+          {
+            "pronunciation": "/nɪˈɡoʊʃieɪt/",
+            "meaning": "đàm phán",
+            "partOfSpeech": "verb",
+            "example": "They negotiated a better price."
+          }
+        ]
+      },
+      {
+        "word": "close",
+        "variants": [
+          {
+            "pronunciation": "/kloʊz/",
+            "meaning": "chốt đơn",
+            "partOfSpeech": "verb",
+            "example": "He closed the deal before noon."
+          }
+        ]
+      },
+      {
+        "word": "lead",
+        "variants": [
+          {
+            "pronunciation": "/liːd/",
+            "meaning": "khách hàng tiềm năng",
+            "partOfSpeech": "noun",
+            "example": "Marketing generated fifty new leads."
+          }
+        ]
+      },
+      {
+        "word": "pipeline",
+        "variants": [
+          {
+            "pronunciation": "/ˈpaɪplaɪn/",
+            "meaning": "kênh bán hàng",
+            "partOfSpeech": "noun",
+            "example": "The sales pipeline looks strong."
+          }
+        ]
+      },
+      {
+        "word": "territory",
+        "variants": [
+          {
+            "pronunciation": "/ˈterətɔːri/",
+            "meaning": "khu vực bán hàng",
+            "partOfSpeech": "noun",
+            "example": "He covers the western territory."
+          }
+        ]
+      },
+      {
+        "word": "discount",
+        "variants": [
+          {
+            "pronunciation": "/ˈdɪskaʊnt/",
+            "meaning": "giảm giá",
+            "partOfSpeech": "noun",
+            "example": "A ten percent discount was offered."
+          }
+        ]
+      },
+      {
+        "word": "wholesale",
+        "variants": [
+          {
+            "pronunciation": "/ˈhoʊlseɪl/",
+            "meaning": "bán buôn",
+            "partOfSpeech": "noun",
+            "example": "Wholesale prices apply to bulk orders."
+          }
+        ]
+      },
+      {
+        "word": "retail price",
+        "variants": [
+          {
+            "pronunciation": "/ˈriːteɪl praɪs/",
+            "meaning": "giá bán lẻ",
+            "partOfSpeech": "phrase",
+            "example": "The retail price includes tax."
+          }
+        ]
+      },
+      {
+        "word": "upsell",
+        "variants": [
+          {
+            "pronunciation": "/ˈʌpsel/",
+            "meaning": "bán thêm",
+            "partOfSpeech": "verb",
+            "example": "Staff are trained to upsell accessories."
+          }
+        ]
+      },
+      {
+        "word": "revenue target",
+        "variants": [
+          {
+            "pronunciation": "/ˈrevənuː ˈtɑːrɡɪt/",
+            "meaning": "mục tiêu doanh thu",
+            "partOfSpeech": "phrase",
+            "example": "We met the revenue target early."
+          }
+        ]
+      },
+      {
+        "word": "client",
+        "variants": [
+          {
+            "pronunciation": "/ˈklaɪənt/",
+            "meaning": "khách hàng",
+            "partOfSpeech": "noun",
+            "example": "The client signed a three-year contract."
+          }
+        ]
+      },
+      {
+        "word": "order",
+        "variants": [
+          {
+            "pronunciation": "/ˈɔːrdər/",
+            "meaning": "đơn hàng",
+            "partOfSpeech": "noun",
+            "example": "Your order will ship tomorrow."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "topicName": "Customer Service",
+    "thumbnail": "customer-service.webp",
+    "listVocabulary": [
+      {
+        "word": "complaint",
+        "variants": [
+          {
+            "pronunciation": "/kəmˈpleɪnt/",
+            "meaning": "khiếu nại",
+            "partOfSpeech": "noun",
+            "example": "We received a complaint about delivery."
+          }
+        ]
+      },
+      {
+        "word": "inquiry",
+        "variants": [
+          {
+            "pronunciation": "/ɪnˈkwaɪri/",
+            "meaning": "yêu cầu thông tin",
+            "partOfSpeech": "noun",
+            "example": "An inquiry came in by phone."
+          }
+        ]
+      },
+      {
+        "word": "refund",
+        "variants": [
+          {
+            "pronunciation": "/ˈriːfʌnd/",
+            "meaning": "hoàn tiền",
+            "partOfSpeech": "noun",
+            "example": "A full refund was issued yesterday."
+          }
+        ]
+      },
+      {
+        "word": "warranty",
+        "variants": [
+          {
+            "pronunciation": "/ˈwɔːrənti/",
+            "meaning": "bảo hành",
+            "partOfSpeech": "noun",
+            "example": "The product includes a two-year warranty."
+          }
+        ]
+      },
+      {
+        "word": "satisfaction",
+        "variants": [
+          {
+            "pronunciation": "/ˌsætɪsˈfækʃn/",
+            "meaning": "sự hài lòng",
+            "partOfSpeech": "noun",
+            "example": "Customer satisfaction scores improved."
+          }
+        ]
+      },
+      {
+        "word": "resolve",
+        "variants": [
+          {
+            "pronunciation": "/rɪˈzɑːlv/",
+            "meaning": "giải quyết",
+            "partOfSpeech": "verb",
+            "example": "We resolved the issue within hours."
+          }
+        ]
+      },
+      {
+        "word": "assist",
+        "variants": [
+          {
+            "pronunciation": "/əˈsɪst/",
+            "meaning": "hỗ trợ",
+            "partOfSpeech": "verb",
+            "example": "Agents assist callers in three languages."
+          }
+        ]
+      },
+      {
+        "word": "respond",
+        "variants": [
+          {
+            "pronunciation": "/rɪˈspɑːnd/",
+            "meaning": "phản hồi",
+            "partOfSpeech": "verb",
+            "example": "Please respond to emails within one day."
+          }
+        ]
+      },
+      {
+        "word": "representative",
+        "variants": [
+          {
+            "pronunciation": "/ˌreprɪˈzentətɪv/",
+            "meaning": "nhân viên hỗ trợ",
+            "partOfSpeech": "noun",
+            "example": "A representative will call you back."
+          }
+        ]
+      },
+      {
+        "word": "escalate",
+        "variants": [
+          {
+            "pronunciation": "/ˈeskəleɪt/",
+            "meaning": "chuyển cấp trên",
+            "partOfSpeech": "verb",
+            "example": "Escalate unresolved cases to a supervisor."
+          }
+        ]
+      },
+      {
+        "word": "courtesy",
+        "variants": [
+          {
+            "pronunciation": "/ˈkɜːrtəsi/",
+            "meaning": "lịch sự",
+            "partOfSpeech": "noun",
+            "example": "Courtesy is essential in every call."
+          }
+        ]
+      },
+      {
+        "word": "replacement",
+        "variants": [
+          {
+            "pronunciation": "/rɪˈpleɪsmənt/",
+            "meaning": "sản phẩm thay thế",
+            "partOfSpeech": "noun",
+            "example": "A replacement was shipped free of charge."
+          }
+        ]
+      },
+      {
+        "word": "hotline",
+        "variants": [
+          {
+            "pronunciation": "/ˈhɑːtlaɪn/",
+            "meaning": "đường dây nóng",
+            "partOfSpeech": "noun",
+            "example": "Call the hotline for urgent support."
+          }
+        ]
+      },
+      {
+        "word": "ticket",
+        "variants": [
+          {
+            "pronunciation": "/ˈtɪkɪt/",
+            "meaning": "phiếu yêu cầu",
+            "partOfSpeech": "noun",
+            "example": "Your support ticket number is 4521."
+          }
+        ]
+      },
+      {
+        "word": "retention specialist",
+        "variants": [
+          {
+            "pronunciation": "/rɪˈtenʃn ˈspeʃəlɪst/",
+            "meaning": "chuyên viên giữ khách",
+            "partOfSpeech": "phrase",
+            "example": "A retention specialist handled the call."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,862 @@
+[
+  {
+    "id": 26,
+    "topicName": "Air Travel",
+    "thumbnail": "air-travel.webp",
+    "listVocabulary": [
+      {
+        "word": "itinerary",
+        "variants": [
+          {
+            "pronunciation": "/aɪˈtɪnəreri/",
+            "meaning": "lịch trình bay",
+            "partOfSpeech": "noun",
+            "example": "Your itinerary was emailed yesterday."
+          }
+        ]
+      },
+      {
+        "word": "boarding pass",
+        "variants": [
+          {
+            "pronunciation": "/ˈbɔːrdɪŋ pæs/",
+            "meaning": "thẻ lên máy bay",
+            "partOfSpeech": "phrase",
+            "example": "Print your boarding pass at home."
+          }
+        ]
+      },
+      {
+        "word": "check-in",
+        "variants": [
+          {
+            "pronunciation": "/tʃek ɪn/",
+            "meaning": "làm thủ tục",
+            "partOfSpeech": "noun",
+            "example": "Online check-in opens twenty-four hours early."
+          }
+        ]
+      },
+      {
+        "word": "layover",
+        "variants": [
+          {
+            "pronunciation": "/ˈleɪoʊvər/",
+            "meaning": "quá cảnh",
+            "partOfSpeech": "noun",
+            "example": "We have a two-hour layover in Dallas."
+          }
+        ]
+      },
+      {
+        "word": "departure",
+        "variants": [
+          {
+            "pronunciation": "/dɪˈpɑːrtʃər/",
+            "meaning": "khởi hành",
+            "partOfSpeech": "noun",
+            "example": "Departure is from gate twelve."
+          }
+        ]
+      },
+      {
+        "word": "arrival",
+        "variants": [
+          {
+            "pronunciation": "/əˈraɪvl/",
+            "meaning": "đến nơi",
+            "partOfSpeech": "noun",
+            "example": "Arrival time is shown on the screen."
+          }
+        ]
+      },
+      {
+        "word": "baggage claim",
+        "variants": [
+          {
+            "pronunciation": "/ˈbæɡɪdʒ kleɪm/",
+            "meaning": "khu nhận hành lý",
+            "partOfSpeech": "phrase",
+            "example": "Meet at baggage claim after landing."
+          }
+        ]
+      },
+      {
+        "word": "carry-on",
+        "variants": [
+          {
+            "pronunciation": "/ˈkæri ɑːn/",
+            "meaning": "hành lý xách tay",
+            "partOfSpeech": "noun",
+            "example": "One carry-on is allowed per passenger."
+          }
+        ]
+      },
+      {
+        "word": "runway",
+        "variants": [
+          {
+            "pronunciation": "/ˈrʌnweɪ/",
+            "meaning": "đường băng",
+            "partOfSpeech": "noun",
+            "example": "The plane taxied to the runway."
+          }
+        ]
+      },
+      {
+        "word": "terminal",
+        "variants": [
+          {
+            "pronunciation": "/ˈtɜːrmɪnl/",
+            "meaning": "nhà ga",
+            "partOfSpeech": "noun",
+            "example": "Terminal B handles international flights."
+          }
+        ]
+      },
+      {
+        "word": "aisle seat",
+        "variants": [
+          {
+            "pronunciation": "/aɪl siːt/",
+            "meaning": "ghế lối đi",
+            "partOfSpeech": "phrase",
+            "example": "I prefer an aisle seat for short trips."
+          }
+        ]
+      },
+      {
+        "word": "overhead bin",
+        "variants": [
+          {
+            "pronunciation": "/ˌoʊvərˈhed bɪn/",
+            "meaning": "khoang trên đầu",
+            "partOfSpeech": "phrase",
+            "example": "Store bags in the overhead bin."
+          }
+        ]
+      },
+      {
+        "word": "turbulence",
+        "variants": [
+          {
+            "pronunciation": "/ˈtɜːrbjələns/",
+            "meaning": "rung lắc",
+            "partOfSpeech": "noun",
+            "example": "The captain warned of mild turbulence."
+          }
+        ]
+      },
+      {
+        "word": "direct flight",
+        "variants": [
+          {
+            "pronunciation": "/dəˈrekt flaɪt/",
+            "meaning": "bay thẳng",
+            "partOfSpeech": "phrase",
+            "example": "Book a direct flight to save time."
+          }
+        ]
+      },
+      {
+        "word": "rebook",
+        "variants": [
+          {
+            "pronunciation": "/riːˈbʊk/",
+            "meaning": "đặt lại vé",
+            "partOfSpeech": "verb",
+            "example": "Passengers may rebook at no extra charge."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "topicName": "Hotels",
+    "thumbnail": "hotels.webp",
+    "listVocabulary": [
+      {
+        "word": "booking",
+        "variants": [
+          {
+            "pronunciation": "/ˈbʊkɪŋ/",
+            "meaning": "đặt phòng",
+            "partOfSpeech": "noun",
+            "example": "Your booking is confirmed for two nights."
+          }
+        ]
+      },
+      {
+        "word": "checkout",
+        "variants": [
+          {
+            "pronunciation": "/tʃek aʊt/",
+            "meaning": "trả phòng",
+            "partOfSpeech": "noun",
+            "example": "Checkout time is eleven a.m."
+          }
+        ]
+      },
+      {
+        "word": "housekeeping",
+        "variants": [
+          {
+            "pronunciation": "/ˈhaʊskiːpɪŋ/",
+            "meaning": "dọn phòng",
+            "partOfSpeech": "noun",
+            "example": "Housekeeping cleans rooms daily."
+          }
+        ]
+      },
+      {
+        "word": "concierge",
+        "variants": [
+          {
+            "pronunciation": "/ˌkɑːnsiˈerʒ/",
+            "meaning": "lễ tân cao cấp",
+            "partOfSpeech": "noun",
+            "example": "The concierge booked a restaurant."
+          }
+        ]
+      },
+      {
+        "word": "suite",
+        "variants": [
+          {
+            "pronunciation": "/swiːt/",
+            "meaning": "phòng suite",
+            "partOfSpeech": "noun",
+            "example": "The executive suite includes a lounge."
+          }
+        ]
+      },
+      {
+        "word": "amenity",
+        "variants": [
+          {
+            "pronunciation": "/əˈmenəti/",
+            "meaning": "tiện nghi",
+            "partOfSpeech": "noun",
+            "example": "Free Wi-Fi is a popular amenity."
+          }
+        ]
+      },
+      {
+        "word": "occupancy",
+        "variants": [
+          {
+            "pronunciation": "/ˈɑːkjəpənsi/",
+            "meaning": "công suất phòng",
+            "partOfSpeech": "noun",
+            "example": "Occupancy reached ninety percent."
+          }
+        ]
+      },
+      {
+        "word": "bellhop",
+        "variants": [
+          {
+            "pronunciation": "/ˈbelhɑːp/",
+            "meaning": "nhân viên khuân hành lý",
+            "partOfSpeech": "noun",
+            "example": "A bellhop brought the bags upstairs."
+          }
+        ]
+      },
+      {
+        "word": "valet",
+        "variants": [
+          {
+            "pronunciation": "/væˈleɪ/",
+            "meaning": "gửi xe",
+            "partOfSpeech": "noun",
+            "example": "Valet parking is available at the entrance."
+          }
+        ]
+      },
+      {
+        "word": "room service",
+        "variants": [
+          {
+            "pronunciation": "/ruːm ˈsɜːrvɪs/",
+            "meaning": "dịch vụ phòng",
+            "partOfSpeech": "phrase",
+            "example": "Order breakfast through room service."
+          }
+        ]
+      },
+      {
+        "word": "no-show",
+        "variants": [
+          {
+            "pronunciation": "/ˈnoʊ ʃoʊ/",
+            "meaning": "khách không đến",
+            "partOfSpeech": "noun",
+            "example": "A no-show fee applies after six p.m."
+          }
+        ]
+      },
+      {
+        "word": "double room",
+        "variants": [
+          {
+            "pronunciation": "/ˈdʌbl ruːm/",
+            "meaning": "phòng đôi",
+            "partOfSpeech": "phrase",
+            "example": "We booked a double room online."
+          }
+        ]
+      },
+      {
+        "word": "front desk",
+        "variants": [
+          {
+            "pronunciation": "/frʌnt desk/",
+            "meaning": "quầy lễ tân",
+            "partOfSpeech": "phrase",
+            "example": "Pick up your key at the front desk."
+          }
+        ]
+      },
+      {
+        "word": "minibar",
+        "variants": [
+          {
+            "pronunciation": "/ˈmɪnibɑːr/",
+            "meaning": "tủ lạnh mini",
+            "partOfSpeech": "noun",
+            "example": "Minibar charges appear on your bill."
+          }
+        ]
+      },
+      {
+        "word": "complimentary",
+        "variants": [
+          {
+            "pronunciation": "/ˌkɑːmplɪˈmentəri/",
+            "meaning": "miễn phí",
+            "partOfSpeech": "adjective",
+            "example": "Complimentary breakfast is served daily."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "topicName": "Restaurants",
+    "thumbnail": "restaurants.webp",
+    "listVocabulary": [
+      {
+        "word": "menu",
+        "variants": [
+          {
+            "pronunciation": "/ˈmenjuː/",
+            "meaning": "thực đơn",
+            "partOfSpeech": "noun",
+            "example": "The menu lists daily specials."
+          }
+        ]
+      },
+      {
+        "word": "reservation",
+        "variants": [
+          {
+            "pronunciation": "/ˌrezərˈveɪʃn/",
+            "meaning": "đặt bàn",
+            "partOfSpeech": "noun",
+            "example": "Make a reservation for seven p.m."
+          }
+        ]
+      },
+      {
+        "word": "appetizer",
+        "variants": [
+          {
+            "pronunciation": "/ˈæpɪtaɪzər/",
+            "meaning": "khai vị",
+            "partOfSpeech": "noun",
+            "example": "We shared an appetizer before the main course."
+          }
+        ]
+      },
+      {
+        "word": "entree",
+        "variants": [
+          {
+            "pronunciation": "/ˈɑːntreɪ/",
+            "meaning": "món chính",
+            "partOfSpeech": "noun",
+            "example": "The entree includes seasonal vegetables."
+          }
+        ]
+      },
+      {
+        "word": "dessert",
+        "variants": [
+          {
+            "pronunciation": "/dɪˈzɜːrt/",
+            "meaning": "tráng miệng",
+            "partOfSpeech": "noun",
+            "example": "Dessert is served after coffee."
+          }
+        ]
+      },
+      {
+        "word": "beverage",
+        "variants": [
+          {
+            "pronunciation": "/ˈbevərɪdʒ/",
+            "meaning": "đồ uống",
+            "partOfSpeech": "noun",
+            "example": "Beverages are refilled at no charge."
+          }
+        ]
+      },
+      {
+        "word": "tip",
+        "variants": [
+          {
+            "pronunciation": "/tɪp/",
+            "meaning": "tiền boa",
+            "partOfSpeech": "noun",
+            "example": "A fifteen percent tip is customary."
+          }
+        ]
+      },
+      {
+        "word": "cuisine",
+        "variants": [
+          {
+            "pronunciation": "/kwɪˈziːn/",
+            "meaning": "ẩm thực",
+            "partOfSpeech": "noun",
+            "example": "The restaurant serves Italian cuisine."
+          }
+        ]
+      },
+      {
+        "word": "chef",
+        "variants": [
+          {
+            "pronunciation": "/ʃef/",
+            "meaning": "đầu bếp",
+            "partOfSpeech": "noun",
+            "example": "The chef created a new tasting menu."
+          }
+        ]
+      },
+      {
+        "word": "server",
+        "variants": [
+          {
+            "pronunciation": "/ˈsɜːrvər/",
+            "meaning": "phục vụ",
+            "partOfSpeech": "noun",
+            "example": "Our server was attentive all evening."
+          }
+        ]
+      },
+      {
+        "word": "takeout",
+        "variants": [
+          {
+            "pronunciation": "/ˈteɪkaʊt/",
+            "meaning": "mang về",
+            "partOfSpeech": "noun",
+            "example": "Place a takeout order by phone."
+          }
+        ]
+      },
+      {
+        "word": "catering",
+        "variants": [
+          {
+            "pronunciation": "/ˈkeɪtərɪŋ/",
+            "meaning": "dịch vụ tiệc",
+            "partOfSpeech": "noun",
+            "example": "Catering is available for office events."
+          }
+        ]
+      },
+      {
+        "word": "dine-in",
+        "variants": [
+          {
+            "pronunciation": "/daɪn ɪn/",
+            "meaning": "ăn tại chỗ",
+            "partOfSpeech": "phrase",
+            "example": "Dine-in service resumes on Monday."
+          }
+        ]
+      },
+      {
+        "word": "special",
+        "variants": [
+          {
+            "pronunciation": "/ˈspeʃl/",
+            "meaning": "món đặc biệt",
+            "partOfSpeech": "noun",
+            "example": "Today's special is grilled salmon."
+          }
+        ]
+      },
+      {
+        "word": "bill",
+        "variants": [
+          {
+            "pronunciation": "/bɪl/",
+            "meaning": "hóa đơn",
+            "partOfSpeech": "noun",
+            "example": "May we have the bill, please?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "topicName": "Tourism",
+    "thumbnail": "tourism.webp",
+    "listVocabulary": [
+      {
+        "word": "sightseeing",
+        "variants": [
+          {
+            "pronunciation": "/ˈsaɪtsiːɪŋ/",
+            "meaning": "tham quan",
+            "partOfSpeech": "noun",
+            "example": "Sightseeing tours depart hourly."
+          }
+        ]
+      },
+      {
+        "word": "guide",
+        "variants": [
+          {
+            "pronunciation": "/ɡaɪd/",
+            "meaning": "hướng dẫn viên",
+            "partOfSpeech": "noun",
+            "example": "Our guide explained the museum history."
+          }
+        ]
+      },
+      {
+        "word": "landmark",
+        "variants": [
+          {
+            "pronunciation": "/ˈlændmɑːrk/",
+            "meaning": "địa danh",
+            "partOfSpeech": "noun",
+            "example": "The tower is a famous landmark."
+          }
+        ]
+      },
+      {
+        "word": "excursion",
+        "variants": [
+          {
+            "pronunciation": "/ɪkˈskɜːrʒn/",
+            "meaning": "chuyến tham quan",
+            "partOfSpeech": "noun",
+            "example": "An afternoon excursion visits the coast."
+          }
+        ]
+      },
+      {
+        "word": "travel guide",
+        "variants": [
+          {
+            "pronunciation": "/ˈtrævl ɡaɪd/",
+            "meaning": "cẩm nang du lịch",
+            "partOfSpeech": "phrase",
+            "example": "Pick up a travel guide at the visitor center."
+          }
+        ]
+      },
+      {
+        "word": "travel plan",
+        "variants": [
+          {
+            "pronunciation": "/ˈtrævl plæn/",
+            "meaning": "lịch trình tour",
+            "partOfSpeech": "phrase",
+            "example": "The travel plan includes three cities."
+          }
+        ]
+      },
+      {
+        "word": "souvenir",
+        "variants": [
+          {
+            "pronunciation": "/ˌsuːvəˈnɪr/",
+            "meaning": "quà lưu niệm",
+            "partOfSpeech": "noun",
+            "example": "Souvenir shops line the main street."
+          }
+        ]
+      },
+      {
+        "word": "attraction",
+        "variants": [
+          {
+            "pronunciation": "/əˈtrækʃn/",
+            "meaning": "điểm tham quan",
+            "partOfSpeech": "noun",
+            "example": "The theme park is a top attraction."
+          }
+        ]
+      },
+      {
+        "word": "package tour",
+        "variants": [
+          {
+            "pronunciation": "/ˈpækɪdʒ tʊr/",
+            "meaning": "tour trọn gói",
+            "partOfSpeech": "phrase",
+            "example": "A package tour covers flights and hotels."
+          }
+        ]
+      },
+      {
+        "word": "peak season",
+        "variants": [
+          {
+            "pronunciation": "/piːk ˈsiːzn/",
+            "meaning": "mùa cao điểm",
+            "partOfSpeech": "phrase",
+            "example": "Prices rise during peak season."
+          }
+        ]
+      },
+      {
+        "word": "heritage",
+        "variants": [
+          {
+            "pronunciation": "/ˈherɪtɪdʒ/",
+            "meaning": "di sản",
+            "partOfSpeech": "noun",
+            "example": "The site is part of world heritage."
+          }
+        ]
+      },
+      {
+        "word": "visitor center",
+        "variants": [
+          {
+            "pronunciation": "/ˈvɪzɪtər ˈsentər/",
+            "meaning": "trung tâm du khách",
+            "partOfSpeech": "phrase",
+            "example": "Maps are free at the visitor center."
+          }
+        ]
+      },
+      {
+        "word": "admission",
+        "variants": [
+          {
+            "pronunciation": "/ədˈmɪʃn/",
+            "meaning": "vé vào cửa",
+            "partOfSpeech": "noun",
+            "example": "Admission is half price on weekdays."
+          }
+        ]
+      },
+      {
+        "word": "group rate",
+        "variants": [
+          {
+            "pronunciation": "/ɡruːp reɪt/",
+            "meaning": "giá đoàn",
+            "partOfSpeech": "phrase",
+            "example": "Groups of ten qualify for a group rate."
+          }
+        ]
+      },
+      {
+        "word": "eco-tourism",
+        "variants": [
+          {
+            "pronunciation": "/ˈiːkoʊ ˈtʊrɪzəm/",
+            "meaning": "du lịch sinh thái",
+            "partOfSpeech": "noun",
+            "example": "Eco-tourism supports local communities."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "topicName": "Real Estate",
+    "thumbnail": "real-estate.webp",
+    "listVocabulary": [
+      {
+        "word": "property",
+        "variants": [
+          {
+            "pronunciation": "/ˈprɑːpərti/",
+            "meaning": "bất động sản",
+            "partOfSpeech": "noun",
+            "example": "The property sold within two weeks."
+          }
+        ]
+      },
+      {
+        "word": "lease",
+        "variants": [
+          {
+            "pronunciation": "/liːs/",
+            "meaning": "thuê",
+            "partOfSpeech": "noun",
+            "example": "The lease runs for five years."
+          }
+        ]
+      },
+      {
+        "word": "tenant",
+        "variants": [
+          {
+            "pronunciation": "/ˈtenənt/",
+            "meaning": "người thuê",
+            "partOfSpeech": "noun",
+            "example": "The tenant moved in on the first."
+          }
+        ]
+      },
+      {
+        "word": "landlord",
+        "variants": [
+          {
+            "pronunciation": "/ˈlændlɔːrd/",
+            "meaning": "chủ nhà",
+            "partOfSpeech": "noun",
+            "example": "Contact the landlord about repairs."
+          }
+        ]
+      },
+      {
+        "word": "listing",
+        "variants": [
+          {
+            "pronunciation": "/ˈlɪstɪŋ/",
+            "meaning": "tin rao",
+            "partOfSpeech": "noun",
+            "example": "A new listing appeared online today."
+          }
+        ]
+      },
+      {
+        "word": "valuation",
+        "variants": [
+          {
+            "pronunciation": "/ˌvæljuˈeɪʃn/",
+            "meaning": "định giá",
+            "partOfSpeech": "noun",
+            "example": "The bank ordered a property valuation."
+          }
+        ]
+      },
+      {
+        "word": "mortgage broker",
+        "variants": [
+          {
+            "pronunciation": "/ˈmɔːrɡɪdʒ ˈbroʊkər/",
+            "meaning": "môi giới vay nhà",
+            "partOfSpeech": "phrase",
+            "example": "A mortgage broker found a lower rate."
+          }
+        ]
+      },
+      {
+        "word": "down payment",
+        "variants": [
+          {
+            "pronunciation": "/daʊn ˈpeɪmənt/",
+            "meaning": "trả trước",
+            "partOfSpeech": "phrase",
+            "example": "The down payment is twenty percent."
+          }
+        ]
+      },
+      {
+        "word": "closing",
+        "variants": [
+          {
+            "pronunciation": "/ˈkloʊzɪŋ/",
+            "meaning": "chốt giao dịch",
+            "partOfSpeech": "noun",
+            "example": "Closing is scheduled for next Friday."
+          }
+        ]
+      },
+      {
+        "word": "zoning",
+        "variants": [
+          {
+            "pronunciation": "/ˈzoʊnɪŋ/",
+            "meaning": "quy hoạch",
+            "partOfSpeech": "noun",
+            "example": "Zoning rules limit building height."
+          }
+        ]
+      },
+      {
+        "word": "square footage",
+        "variants": [
+          {
+            "pronunciation": "/skwer ˈfuːtɪdʒ/",
+            "meaning": "diện tích",
+            "partOfSpeech": "phrase",
+            "example": "The office has twelve hundred square footage."
+          }
+        ]
+      },
+      {
+        "word": "renovation",
+        "variants": [
+          {
+            "pronunciation": "/ˌrenəˈveɪʃn/",
+            "meaning": "cải tạo",
+            "partOfSpeech": "noun",
+            "example": "Renovation will finish by summer."
+          }
+        ]
+      },
+      {
+        "word": "commercial space",
+        "variants": [
+          {
+            "pronunciation": "/kəˈmɜːrʃl speɪs/",
+            "meaning": "mặt bằng thương mại",
+            "partOfSpeech": "phrase",
+            "example": "Commercial space is available downtown."
+          }
+        ]
+      },
+      {
+        "word": "escrow",
+        "variants": [
+          {
+            "pronunciation": "/ˈeskroʊ/",
+            "meaning": "ký quỹ",
+            "partOfSpeech": "noun",
+            "example": "Funds are held in escrow until closing."
+          }
+        ]
+      },
+      {
+        "word": "deed",
+        "variants": [
+          {
+            "pronunciation": "/diːd/",
+            "meaning": "giấy chứng nhận quyền sở hữu",
+            "partOfSpeech": "noun",
+            "example": "The deed was recorded at the county office."
+          }
+        ]
+      }
+    ]
+  }
+]

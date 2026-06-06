@@ -1,0 +1,862 @@
+[
+  {
+    "id": 21,
+    "topicName": "Quality Control",
+    "thumbnail": "quality-control.webp",
+    "listVocabulary": [
+      {
+        "word": "inspection",
+        "variants": [
+          {
+            "pronunciation": "/ɪnˈspekʃn/",
+            "meaning": "kiểm tra",
+            "partOfSpeech": "noun",
+            "example": "Final inspection occurs before shipping."
+          }
+        ]
+      },
+      {
+        "word": "defect",
+        "variants": [
+          {
+            "pronunciation": "/ˈdiːfekt/",
+            "meaning": "lỗi sản phẩm",
+            "partOfSpeech": "noun",
+            "example": "A defect was found in batch twelve."
+          }
+        ]
+      },
+      {
+        "word": "standard",
+        "variants": [
+          {
+            "pronunciation": "/ˈstændərd/",
+            "meaning": "tiêu chuẩn",
+            "partOfSpeech": "noun",
+            "example": "Products must meet quality standards."
+          }
+        ]
+      },
+      {
+        "word": "sampling plan",
+        "variants": [
+          {
+            "pronunciation": "/ˈsæmplɪŋ plæn/",
+            "meaning": "kế hoạch lấy mẫu",
+            "partOfSpeech": "phrase",
+            "example": "The sampling plan covers every shift."
+          }
+        ]
+      },
+      {
+        "word": "sample",
+        "variants": [
+          {
+            "pronunciation": "/ˈsæmpl/",
+            "meaning": "mẫu thử",
+            "partOfSpeech": "noun",
+            "example": "Random samples are tested daily."
+          }
+        ]
+      },
+      {
+        "word": "tolerance",
+        "variants": [
+          {
+            "pronunciation": "/ˈtɑːlərəns/",
+            "meaning": "dung sai",
+            "partOfSpeech": "noun",
+            "example": "Measurements must stay within tolerance."
+          }
+        ]
+      },
+      {
+        "word": "calibration",
+        "variants": [
+          {
+            "pronunciation": "/ˌkælɪˈbreɪʃn/",
+            "meaning": "hiệu chuẩn",
+            "partOfSpeech": "noun",
+            "example": "Equipment calibration is due this month."
+          }
+        ]
+      },
+      {
+        "word": "nonconformance",
+        "variants": [
+          {
+            "pronunciation": "/ˌnɑːnkənˈfɔːrməns/",
+            "meaning": "không đạt chuẩn",
+            "partOfSpeech": "noun",
+            "example": "Report any nonconformance immediately."
+          }
+        ]
+      },
+      {
+        "word": "record log",
+        "variants": [
+          {
+            "pronunciation": "/ˈrekərd lɔːɡ/",
+            "meaning": "nhật ký ghi chép",
+            "partOfSpeech": "phrase",
+            "example": "The system keeps a full record log."
+          }
+        ]
+      },
+      {
+        "word": "certify",
+        "variants": [
+          {
+            "pronunciation": "/ˈsɜːrtɪfaɪ/",
+            "meaning": "chứng nhận",
+            "partOfSpeech": "verb",
+            "example": "An inspector will certify the batch."
+          }
+        ]
+      },
+      {
+        "word": "reject",
+        "variants": [
+          {
+            "pronunciation": "/rɪˈdʒekt/",
+            "meaning": "loại bỏ",
+            "partOfSpeech": "verb",
+            "example": "Reject units that fail the test."
+          }
+        ]
+      },
+      {
+        "word": "specimen",
+        "variants": [
+          {
+            "pronunciation": "/ˈspesɪmən/",
+            "meaning": "mẫu kiểm",
+            "partOfSpeech": "noun",
+            "example": "Each specimen is labeled and stored."
+          }
+        ]
+      },
+      {
+        "word": "gauge",
+        "variants": [
+          {
+            "pronunciation": "/ɡeɪdʒ/",
+            "meaning": "dụng cụ đo",
+            "partOfSpeech": "noun",
+            "example": "Use a gauge to verify thickness."
+          }
+        ]
+      },
+      {
+        "word": "procedure",
+        "variants": [
+          {
+            "pronunciation": "/prəˈsiːdʒər/",
+            "meaning": "quy trình",
+            "partOfSpeech": "noun",
+            "example": "Follow the testing procedure exactly."
+          }
+        ]
+      },
+      {
+        "word": "traceability",
+        "variants": [
+          {
+            "pronunciation": "/ˌtreɪsəˈbɪləti/",
+            "meaning": "truy xuất nguồn gốc",
+            "partOfSpeech": "noun",
+            "example": "Traceability improves recall response."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "topicName": "Logistics",
+    "thumbnail": "logistics.webp",
+    "listVocabulary": [
+      {
+        "word": "shipment",
+        "variants": [
+          {
+            "pronunciation": "/ˈʃɪpmənt/",
+            "meaning": "lô hàng",
+            "partOfSpeech": "noun",
+            "example": "The shipment left the warehouse today."
+          }
+        ]
+      },
+      {
+        "word": "freight",
+        "variants": [
+          {
+            "pronunciation": "/freɪt/",
+            "meaning": "hàng hóa vận chuyển",
+            "partOfSpeech": "noun",
+            "example": "Freight costs rose last quarter."
+          }
+        ]
+      },
+      {
+        "word": "carrier",
+        "variants": [
+          {
+            "pronunciation": "/ˈkæriər/",
+            "meaning": "đơn vị vận chuyển",
+            "partOfSpeech": "noun",
+            "example": "The carrier confirmed pickup time."
+          }
+        ]
+      },
+      {
+        "word": "route",
+        "variants": [
+          {
+            "pronunciation": "/ruːt/",
+            "meaning": "tuyến đường",
+            "partOfSpeech": "noun",
+            "example": "Drivers follow the assigned route."
+          }
+        ]
+      },
+      {
+        "word": "dispatch",
+        "variants": [
+          {
+            "pronunciation": "/dɪˈspætʃ/",
+            "meaning": "điều phối",
+            "partOfSpeech": "verb",
+            "example": "Dispatch orders before three p.m."
+          }
+        ]
+      },
+      {
+        "word": "tracking",
+        "variants": [
+          {
+            "pronunciation": "/ˈtrækɪŋ/",
+            "meaning": "theo dõi hàng",
+            "partOfSpeech": "noun",
+            "example": "Tracking numbers were emailed to customers."
+          }
+        ]
+      },
+      {
+        "word": "consignment",
+        "variants": [
+          {
+            "pronunciation": "/kənˈsaɪnmənt/",
+            "meaning": "lô hàng ký gửi",
+            "partOfSpeech": "noun",
+            "example": "Goods arrived on consignment."
+          }
+        ]
+      },
+      {
+        "word": "customs",
+        "variants": [
+          {
+            "pronunciation": "/ˈkʌstəmz/",
+            "meaning": "hải quan",
+            "partOfSpeech": "noun",
+            "example": "Customs cleared the container yesterday."
+          }
+        ]
+      },
+      {
+        "word": "port",
+        "variants": [
+          {
+            "pronunciation": "/pɔːrt/",
+            "meaning": "cảng",
+            "partOfSpeech": "noun",
+            "example": "Cargo arrived at the port at dawn."
+          }
+        ]
+      },
+      {
+        "word": "container",
+        "variants": [
+          {
+            "pronunciation": "/kənˈteɪnər/",
+            "meaning": "container",
+            "partOfSpeech": "noun",
+            "example": "Load the container by Friday."
+          }
+        ]
+      },
+      {
+        "word": "cargo",
+        "variants": [
+          {
+            "pronunciation": "/ˈkɑːrɡoʊ/",
+            "meaning": "hàng hóa",
+            "partOfSpeech": "noun",
+            "example": "Cargo was damaged during transit."
+          }
+        ]
+      },
+      {
+        "word": "transit",
+        "variants": [
+          {
+            "pronunciation": "/ˈtrænzɪt/",
+            "meaning": "vận chuyển",
+            "partOfSpeech": "noun",
+            "example": "Goods are in transit to Chicago."
+          }
+        ]
+      },
+      {
+        "word": "handler",
+        "variants": [
+          {
+            "pronunciation": "/ˈhændlər/",
+            "meaning": "bốc xếp",
+            "partOfSpeech": "noun",
+            "example": "Handlers loaded pallets onto the truck."
+          }
+        ]
+      },
+      {
+        "word": "pickup",
+        "variants": [
+          {
+            "pronunciation": "/ˈpɪkʌp/",
+            "meaning": "lấy hàng",
+            "partOfSpeech": "noun",
+            "example": "Schedule a pickup for tomorrow morning."
+          }
+        ]
+      },
+      {
+        "word": "courier",
+        "variants": [
+          {
+            "pronunciation": "/ˈkʊriər/",
+            "meaning": "chuyển phát nhanh",
+            "partOfSpeech": "noun",
+            "example": "Send documents by courier."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "topicName": "Shipping",
+    "thumbnail": "shipping.webp",
+    "listVocabulary": [
+      {
+        "word": "bill of lading",
+        "variants": [
+          {
+            "pronunciation": "/bɪl əv ˈleɪdɪŋ/",
+            "meaning": "vận đơn",
+            "partOfSpeech": "phrase",
+            "example": "Sign the bill of lading at pickup."
+          }
+        ]
+      },
+      {
+        "word": "manifest",
+        "variants": [
+          {
+            "pronunciation": "/ˈmænɪfest/",
+            "meaning": "bảng kê hàng",
+            "partOfSpeech": "noun",
+            "example": "Check the manifest before departure."
+          }
+        ]
+      },
+      {
+        "word": "dock",
+        "variants": [
+          {
+            "pronunciation": "/dɑːk/",
+            "meaning": "bến bốc dỡ",
+            "partOfSpeech": "noun",
+            "example": "Trucks wait at loading dock four."
+          }
+        ]
+      },
+      {
+        "word": "seal",
+        "variants": [
+          {
+            "pronunciation": "/siːl/",
+            "meaning": "niêm phong",
+            "partOfSpeech": "noun",
+            "example": "Verify the container seal is intact."
+          }
+        ]
+      },
+      {
+        "word": "hazardous",
+        "variants": [
+          {
+            "pronunciation": "/ˈhæzərdəs/",
+            "meaning": "nguy hiểm",
+            "partOfSpeech": "adjective",
+            "example": "Hazardous goods require special labels."
+          }
+        ]
+      },
+      {
+        "word": "export",
+        "variants": [
+          {
+            "pronunciation": "/ˈekspɔːrt/",
+            "meaning": "xuất khẩu",
+            "partOfSpeech": "verb",
+            "example": "We export products to twelve countries."
+          }
+        ]
+      },
+      {
+        "word": "import",
+        "variants": [
+          {
+            "pronunciation": "/ˈɪmpɔːrt/",
+            "meaning": "nhập khẩu",
+            "partOfSpeech": "verb",
+            "example": "They import components from overseas."
+          }
+        ]
+      },
+      {
+        "word": "tariff",
+        "variants": [
+          {
+            "pronunciation": "/ˈtærɪf/",
+            "meaning": "thuế quan",
+            "partOfSpeech": "noun",
+            "example": "Tariffs increased on imported steel."
+          }
+        ]
+      },
+      {
+        "word": "clearance",
+        "variants": [
+          {
+            "pronunciation": "/ˈklɪrəns/",
+            "meaning": "thông quan",
+            "partOfSpeech": "noun",
+            "example": "Customs clearance took two days."
+          }
+        ]
+      },
+      {
+        "word": "waybill",
+        "variants": [
+          {
+            "pronunciation": "/ˈweɪbɪl/",
+            "meaning": "vận đơn đường bộ",
+            "partOfSpeech": "noun",
+            "example": "Attach the waybill to each package."
+          }
+        ]
+      },
+      {
+        "word": "consignee",
+        "variants": [
+          {
+            "pronunciation": "/ˌkɑːnsɪˈniː/",
+            "meaning": "người nhận hàng",
+            "partOfSpeech": "noun",
+            "example": "The consignee signed for delivery."
+          }
+        ]
+      },
+      {
+        "word": "consignor",
+        "variants": [
+          {
+            "pronunciation": "/kənˈsaɪnər/",
+            "meaning": "người gửi hàng",
+            "partOfSpeech": "noun",
+            "example": "The consignor listed all item weights."
+          }
+        ]
+      },
+      {
+        "word": "freight forwarder",
+        "variants": [
+          {
+            "pronunciation": "/freɪt ˈfɔːrwərdər/",
+            "meaning": "đơn vị giao nhận",
+            "partOfSpeech": "phrase",
+            "example": "A freight forwarder arranged transport."
+          }
+        ]
+      },
+      {
+        "word": "packing list",
+        "variants": [
+          {
+            "pronunciation": "/ˈpækɪŋ lɪst/",
+            "meaning": "phiếu đóng gói",
+            "partOfSpeech": "phrase",
+            "example": "Include a packing list in the box."
+          }
+        ]
+      },
+      {
+        "word": "on board",
+        "variants": [
+          {
+            "pronunciation": "/ɑːn bɔːrd/",
+            "meaning": "đã lên tàu",
+            "partOfSpeech": "phrase",
+            "example": "Goods are on board the vessel."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "topicName": "Warehousing",
+    "thumbnail": "warehousing.webp",
+    "listVocabulary": [
+      {
+        "word": "warehouse",
+        "variants": [
+          {
+            "pronunciation": "/ˈwerhaʊs/",
+            "meaning": "kho hàng",
+            "partOfSpeech": "noun",
+            "example": "Stock is stored in the main warehouse."
+          }
+        ]
+      },
+      {
+        "word": "storage",
+        "variants": [
+          {
+            "pronunciation": "/ˈstɔːrɪdʒ/",
+            "meaning": "lưu trữ",
+            "partOfSpeech": "noun",
+            "example": "Climate-controlled storage is available."
+          }
+        ]
+      },
+      {
+        "word": "pallet",
+        "variants": [
+          {
+            "pronunciation": "/ˈpælɪt/",
+            "meaning": "pallet",
+            "partOfSpeech": "noun",
+            "example": "Stack boxes on wooden pallets."
+          }
+        ]
+      },
+      {
+        "word": "shelf",
+        "variants": [
+          {
+            "pronunciation": "/ʃelf/",
+            "meaning": "kệ",
+            "partOfSpeech": "noun",
+            "example": "Place fast-moving items on lower shelves."
+          }
+        ]
+      },
+      {
+        "word": "stockroom",
+        "variants": [
+          {
+            "pronunciation": "/ˈstɑːkruːm/",
+            "meaning": "kho nhỏ",
+            "partOfSpeech": "noun",
+            "example": "Supplies are kept in the stockroom."
+          }
+        ]
+      },
+      {
+        "word": "receiving",
+        "variants": [
+          {
+            "pronunciation": "/rɪˈsiːvɪŋ/",
+            "meaning": "nhận hàng",
+            "partOfSpeech": "noun",
+            "example": "Receiving closes at five p.m."
+          }
+        ]
+      },
+      {
+        "word": "fulfillment",
+        "variants": [
+          {
+            "pronunciation": "/fʊlˈfɪlmənt/",
+            "meaning": "hoàn tất đơn",
+            "partOfSpeech": "noun",
+            "example": "Order fulfillment improved last month."
+          }
+        ]
+      },
+      {
+        "word": "bin",
+        "variants": [
+          {
+            "pronunciation": "/bɪn/",
+            "meaning": "ngăn chứa",
+            "partOfSpeech": "noun",
+            "example": "Parts are sorted into labeled bins."
+          }
+        ]
+      },
+      {
+        "word": "forklift",
+        "variants": [
+          {
+            "pronunciation": "/ˈfɔːrklɪft/",
+            "meaning": "xe nâng",
+            "partOfSpeech": "noun",
+            "example": "Only trained staff may use a forklift."
+          }
+        ]
+      },
+      {
+        "word": "restock",
+        "variants": [
+          {
+            "pronunciation": "/riːˈstɑːk/",
+            "meaning": "bổ sung hàng",
+            "partOfSpeech": "verb",
+            "example": "Restock shelves before the weekend rush."
+          }
+        ]
+      },
+      {
+        "word": "slotting",
+        "variants": [
+          {
+            "pronunciation": "/ˈslɑːtɪŋ/",
+            "meaning": "bố trí vị trí kho",
+            "partOfSpeech": "noun",
+            "example": "Slotting reduces picking time."
+          }
+        ]
+      },
+      {
+        "word": "cycle count",
+        "variants": [
+          {
+            "pronunciation": "/ˈsaɪkl kaʊnt/",
+            "meaning": "kiểm kê định kỳ",
+            "partOfSpeech": "phrase",
+            "example": "Cycle counts run every Friday."
+          }
+        ]
+      },
+      {
+        "word": "cold storage",
+        "variants": [
+          {
+            "pronunciation": "/koʊld ˈstɔːrɪdʒ/",
+            "meaning": "kho lạnh",
+            "partOfSpeech": "phrase",
+            "example": "Perishables need cold storage."
+          }
+        ]
+      },
+      {
+        "word": "loading bay",
+        "variants": [
+          {
+            "pronunciation": "/ˈloʊdɪŋ beɪ/",
+            "meaning": "khu bốc xếp",
+            "partOfSpeech": "phrase",
+            "example": "Trucks queue at the loading bay."
+          }
+        ]
+      },
+      {
+        "word": "WMS",
+        "variants": [
+          {
+            "pronunciation": "/ˌdʌbljuː em ˈes/",
+            "meaning": "hệ thống quản lý kho",
+            "partOfSpeech": "noun",
+            "example": "The WMS tracks every movement."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "topicName": "Transportation",
+    "thumbnail": "transportation.webp",
+    "listVocabulary": [
+      {
+        "word": "fleet",
+        "variants": [
+          {
+            "pronunciation": "/fliːt/",
+            "meaning": "đội xe",
+            "partOfSpeech": "noun",
+            "example": "The company expanded its delivery fleet."
+          }
+        ]
+      },
+      {
+        "word": "commute",
+        "variants": [
+          {
+            "pronunciation": "/kəˈmjuːt/",
+            "meaning": "đi làm hàng ngày",
+            "partOfSpeech": "verb",
+            "example": "Many employees commute by train."
+          }
+        ]
+      },
+      {
+        "word": "fare",
+        "variants": [
+          {
+            "pronunciation": "/fer/",
+            "meaning": "giá vé",
+            "partOfSpeech": "noun",
+            "example": "Bus fares increased in January."
+          }
+        ]
+      },
+      {
+        "word": "transit pass",
+        "variants": [
+          {
+            "pronunciation": "/ˈtrænzɪt pæs/",
+            "meaning": "vé tháng",
+            "partOfSpeech": "phrase",
+            "example": "Staff receive a subsidized transit pass."
+          }
+        ]
+      },
+      {
+        "word": "shuttle",
+        "variants": [
+          {
+            "pronunciation": "/ˈʃʌtl/",
+            "meaning": "xe đưa đón",
+            "partOfSpeech": "noun",
+            "example": "A shuttle runs between sites hourly."
+          }
+        ]
+      },
+      {
+        "word": "depot",
+        "variants": [
+          {
+            "pronunciation": "/ˈdiːpoʊ/",
+            "meaning": "bến xe",
+            "partOfSpeech": "noun",
+            "example": "Buses leave from the central depot."
+          }
+        ]
+      },
+      {
+        "word": "mileage",
+        "variants": [
+          {
+            "pronunciation": "/ˈmaɪlɪdʒ/",
+            "meaning": "số dặm",
+            "partOfSpeech": "noun",
+            "example": "Report your mileage for reimbursement."
+          }
+        ]
+      },
+      {
+        "word": "toll",
+        "variants": [
+          {
+            "pronunciation": "/toʊl/",
+            "meaning": "phí cầu đường",
+            "partOfSpeech": "noun",
+            "example": "Toll receipts must be submitted monthly."
+          }
+        ]
+      },
+      {
+        "word": "traffic",
+        "variants": [
+          {
+            "pronunciation": "/ˈtræfɪk/",
+            "meaning": "giao thông",
+            "partOfSpeech": "noun",
+            "example": "Heavy traffic delayed deliveries."
+          }
+        ]
+      },
+      {
+        "word": "congestion",
+        "variants": [
+          {
+            "pronunciation": "/kənˈdʒestʃən/",
+            "meaning": "tắc đường",
+            "partOfSpeech": "noun",
+            "example": "Congestion adds thirty minutes to the route."
+          }
+        ]
+      },
+      {
+        "word": "railway",
+        "variants": [
+          {
+            "pronunciation": "/ˈreɪlweɪ/",
+            "meaning": "đường sắt",
+            "partOfSpeech": "noun",
+            "example": "Goods move by railway when possible."
+          }
+        ]
+      },
+      {
+        "word": "highway",
+        "variants": [
+          {
+            "pronunciation": "/ˈhaɪweɪ/",
+            "meaning": "xa lộ",
+            "partOfSpeech": "noun",
+            "example": "The highway connects both factories."
+          }
+        ]
+      },
+      {
+        "word": "transit authority",
+        "variants": [
+          {
+            "pronunciation": "/ˈtrænzɪt əˈθɔːrəti/",
+            "meaning": "cơ quan giao thông",
+            "partOfSpeech": "phrase",
+            "example": "The transit authority updated schedules."
+          }
+        ]
+      },
+      {
+        "word": "charter",
+        "variants": [
+          {
+            "pronunciation": "/ˈtʃɑːrtər/",
+            "meaning": "thuê xe/bay",
+            "partOfSpeech": "verb",
+            "example": "We chartered a bus for the conference."
+          }
+        ]
+      },
+      {
+        "word": "ridership",
+        "variants": [
+          {
+            "pronunciation": "/ˈraɪdərʃɪp/",
+            "meaning": "lượt hành khách",
+            "partOfSpeech": "noun",
+            "example": "Ridership rose after the fare cut."
+          }
+        ]
+      }
+    ]
+  }
+]

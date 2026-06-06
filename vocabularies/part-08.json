@@ -1,0 +1,862 @@
+[
+  {
+    "id": 36,
+    "topicName": "Healthcare",
+    "thumbnail": "healthcare.webp",
+    "listVocabulary": [
+      {
+        "word": "clinic",
+        "variants": [
+          {
+            "pronunciation": "/ˈklɪnɪk/",
+            "meaning": "phòng khám",
+            "partOfSpeech": "noun",
+            "example": "The clinic opens at eight a.m."
+          }
+        ]
+      },
+      {
+        "word": "physician",
+        "variants": [
+          {
+            "pronunciation": "/fɪˈzɪʃn/",
+            "meaning": "bác sĩ",
+            "partOfSpeech": "noun",
+            "example": "The physician reviewed your test results."
+          }
+        ]
+      },
+      {
+        "word": "prescription",
+        "variants": [
+          {
+            "pronunciation": "/prɪˈskrɪpʃn/",
+            "meaning": "đơn thuốc",
+            "partOfSpeech": "noun",
+            "example": "Pick up your prescription at the pharmacy."
+          }
+        ]
+      },
+      {
+        "word": "diagnosis",
+        "variants": [
+          {
+            "pronunciation": "/ˌdaɪəɡˈnoʊsɪs/",
+            "meaning": "chẩn đoán",
+            "partOfSpeech": "noun",
+            "example": "The diagnosis was confirmed by a specialist."
+          }
+        ]
+      },
+      {
+        "word": "treatment",
+        "variants": [
+          {
+            "pronunciation": "/ˈtriːtmənt/",
+            "meaning": "điều trị",
+            "partOfSpeech": "noun",
+            "example": "Treatment begins next week."
+          }
+        ]
+      },
+      {
+        "word": "appointment slot",
+        "variants": [
+          {
+            "pronunciation": "/əˈpɔɪntmənt slɑːt/",
+            "meaning": "khung giờ khám",
+            "partOfSpeech": "phrase",
+            "example": "The next appointment slot is at two p.m."
+          }
+        ]
+      },
+      {
+        "word": "referral",
+        "variants": [
+          {
+            "pronunciation": "/rɪˈfɜːrəl/",
+            "meaning": "giấy giới thiệu",
+            "partOfSpeech": "noun",
+            "example": "You need a referral to see a specialist."
+          }
+        ]
+      },
+      {
+        "word": "immunization",
+        "variants": [
+          {
+            "pronunciation": "/ˌɪmjunaɪˈzeɪʃn/",
+            "meaning": "tiêm chủng",
+            "partOfSpeech": "noun",
+            "example": "Immunization records are required."
+          }
+        ]
+      },
+      {
+        "word": "outpatient",
+        "variants": [
+          {
+            "pronunciation": "/ˈaʊtpeɪʃnt/",
+            "meaning": "ngoại trú",
+            "partOfSpeech": "noun",
+            "example": "Outpatient services expanded this year."
+          }
+        ]
+      },
+      {
+        "word": "inpatient",
+        "variants": [
+          {
+            "pronunciation": "/ˈɪnpeɪʃnt/",
+            "meaning": "nội trú",
+            "partOfSpeech": "noun",
+            "example": "Inpatient care is available on floor four."
+          }
+        ]
+      },
+      {
+        "word": "medical record",
+        "variants": [
+          {
+            "pronunciation": "/ˈmedɪkl ˈrekərd/",
+            "meaning": "hồ sơ y tế",
+            "partOfSpeech": "phrase",
+            "example": "Medical records are kept confidential."
+          }
+        ]
+      },
+      {
+        "word": "pharmacy",
+        "variants": [
+          {
+            "pronunciation": "/ˈfɑːrməsi/",
+            "meaning": "nhà thuốc",
+            "partOfSpeech": "noun",
+            "example": "The pharmacy closes at nine p.m."
+          }
+        ]
+      },
+      {
+        "word": "symptom",
+        "variants": [
+          {
+            "pronunciation": "/ˈsɪmptəm/",
+            "meaning": "triệu chứng",
+            "partOfSpeech": "noun",
+            "example": "Report any new symptoms immediately."
+          }
+        ]
+      },
+      {
+        "word": "wellness program",
+        "variants": [
+          {
+            "pronunciation": "/ˈwelnəs ˈproʊɡræm/",
+            "meaning": "chương trình sức khỏe",
+            "partOfSpeech": "phrase",
+            "example": "Employees joined a wellness program."
+          }
+        ]
+      },
+      {
+        "word": "discharge",
+        "variants": [
+          {
+            "pronunciation": "/dɪsˈtʃɑːrdʒ/",
+            "meaning": "xuất viện",
+            "partOfSpeech": "verb",
+            "example": "The patient was discharged yesterday."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "topicName": "Environment",
+    "thumbnail": "environment.webp",
+    "listVocabulary": [
+      {
+        "word": "recycle",
+        "variants": [
+          {
+            "pronunciation": "/riːˈsaɪkl/",
+            "meaning": "tái chế",
+            "partOfSpeech": "verb",
+            "example": "Please recycle paper and plastic."
+          }
+        ]
+      },
+      {
+        "word": "emission",
+        "variants": [
+          {
+            "pronunciation": "/ɪˈmɪʃn/",
+            "meaning": "khí thải",
+            "partOfSpeech": "noun",
+            "example": "Emissions fell after the plant upgrade."
+          }
+        ]
+      },
+      {
+        "word": "sustainability",
+        "variants": [
+          {
+            "pronunciation": "/səˌsteɪnəˈbɪləti/",
+            "meaning": "bền vững",
+            "partOfSpeech": "noun",
+            "example": "Sustainability goals were announced today."
+          }
+        ]
+      },
+      {
+        "word": "renewable",
+        "variants": [
+          {
+            "pronunciation": "/rɪˈnuːəbl/",
+            "meaning": "tái tạo",
+            "partOfSpeech": "adjective",
+            "example": "Renewable energy powers the new building."
+          }
+        ]
+      },
+      {
+        "word": "pollution",
+        "variants": [
+          {
+            "pronunciation": "/pəˈluːʃn/",
+            "meaning": "ô nhiễm",
+            "partOfSpeech": "noun",
+            "example": "Pollution levels dropped last year."
+          }
+        ]
+      },
+      {
+        "word": "conservation",
+        "variants": [
+          {
+            "pronunciation": "/ˌkɑːnsərˈveɪʃn/",
+            "meaning": "bảo tồn",
+            "partOfSpeech": "noun",
+            "example": "Water conservation saved ten percent."
+          }
+        ]
+      },
+      {
+        "word": "landfill",
+        "variants": [
+          {
+            "pronunciation": "/ˈlændfɪl/",
+            "meaning": "bãi rác",
+            "partOfSpeech": "noun",
+            "example": "Waste is diverted away from landfills."
+          }
+        ]
+      },
+      {
+        "word": "carbon footprint",
+        "variants": [
+          {
+            "pronunciation": "/ˈkɑːrbən ˈfʊtprɪnt/",
+            "meaning": "dấu chân carbon",
+            "partOfSpeech": "phrase",
+            "example": "The firm reduced its carbon footprint."
+          }
+        ]
+      },
+      {
+        "word": "hazardous waste",
+        "variants": [
+          {
+            "pronunciation": "/ˈhæzərdəs weɪst/",
+            "meaning": "chất thải nguy hại",
+            "partOfSpeech": "phrase",
+            "example": "Hazardous waste must be labeled."
+          }
+        ]
+      },
+      {
+        "word": "EPA",
+        "variants": [
+          {
+            "pronunciation": "/ˌiː piː ˈeɪ/",
+            "meaning": "cơ quan bảo vệ môi trường",
+            "partOfSpeech": "noun",
+            "example": "EPA guidelines apply to the facility."
+          }
+        ]
+      },
+      {
+        "word": "compliance report",
+        "variants": [
+          {
+            "pronunciation": "/kəmˈplaɪəns rɪˈpɔːrt/",
+            "meaning": "báo cáo tuân thủ",
+            "partOfSpeech": "phrase",
+            "example": "Submit the compliance report quarterly."
+          }
+        ]
+      },
+      {
+        "word": "green initiative",
+        "variants": [
+          {
+            "pronunciation": "/ɡriːn ɪˈnɪʃətɪv/",
+            "meaning": "sáng kiến xanh",
+            "partOfSpeech": "phrase",
+            "example": "A green initiative cut energy use."
+          }
+        ]
+      },
+      {
+        "word": "ecosystem",
+        "variants": [
+          {
+            "pronunciation": "/ˈiːkoʊsɪstəm/",
+            "meaning": "hệ sinh thái",
+            "partOfSpeech": "noun",
+            "example": "The project protects the local ecosystem."
+          }
+        ]
+      },
+      {
+        "word": "disposal",
+        "variants": [
+          {
+            "pronunciation": "/dɪˈspoʊzl/",
+            "meaning": "xử lý rác",
+            "partOfSpeech": "noun",
+            "example": "Proper disposal prevents contamination."
+          }
+        ]
+      },
+      {
+        "word": "effluent",
+        "variants": [
+          {
+            "pronunciation": "/ˈefluənt/",
+            "meaning": "nước thải",
+            "partOfSpeech": "noun",
+            "example": "Effluent is treated before release."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "topicName": "Retail",
+    "thumbnail": "retail.webp",
+    "listVocabulary": [
+      {
+        "word": "storefront",
+        "variants": [
+          {
+            "pronunciation": "/ˈstɔːrfrʌnt/",
+            "meaning": "mặt tiền cửa hàng",
+            "partOfSpeech": "noun",
+            "example": "The storefront was renovated last month."
+          }
+        ]
+      },
+      {
+        "word": "checkout counter",
+        "variants": [
+          {
+            "pronunciation": "/tʃek aʊt ˈkaʊntər/",
+            "meaning": "quầy thanh toán",
+            "partOfSpeech": "phrase",
+            "example": "Long lines formed at the checkout counter."
+          }
+        ]
+      },
+      {
+        "word": "merchandise",
+        "variants": [
+          {
+            "pronunciation": "/ˈmɜːrtʃəndaɪs/",
+            "meaning": "hàng hóa",
+            "partOfSpeech": "noun",
+            "example": "New merchandise arrives every Monday."
+          }
+        ]
+      },
+      {
+        "word": "inventory count",
+        "variants": [
+          {
+            "pronunciation": "/ˈɪnvəntɔːri kaʊnt/",
+            "meaning": "kiểm kê hàng",
+            "partOfSpeech": "phrase",
+            "example": "An inventory count runs after closing."
+          }
+        ]
+      },
+      {
+        "word": "POS system",
+        "variants": [
+          {
+            "pronunciation": "/piː oʊ es ˈsɪstəm/",
+            "meaning": "máy tính tiền",
+            "partOfSpeech": "phrase",
+            "example": "The POS system accepts mobile payments."
+          }
+        ]
+      },
+      {
+        "word": "markdown",
+        "variants": [
+          {
+            "pronunciation": "/ˈmɑːrkdaʊn/",
+            "meaning": "giảm giá",
+            "partOfSpeech": "noun",
+            "example": "A markdown sale starts on Friday."
+          }
+        ]
+      },
+      {
+        "word": "closeout sale",
+        "variants": [
+          {
+            "pronunciation": "/ˈkloʊzaʊt seɪl/",
+            "meaning": "xả hàng",
+            "partOfSpeech": "phrase",
+            "example": "A closeout sale starts on Friday."
+          }
+        ]
+      },
+      {
+        "word": "shopper",
+        "variants": [
+          {
+            "pronunciation": "/ˈʃɑːpər/",
+            "meaning": "khách mua sắm",
+            "partOfSpeech": "noun",
+            "example": "Shoppers lined up before opening."
+          }
+        ]
+      },
+      {
+        "word": "loyalty card",
+        "variants": [
+          {
+            "pronunciation": "/ˈlɔɪəlti kɑːrd/",
+            "meaning": "thẻ thành viên",
+            "partOfSpeech": "phrase",
+            "example": "Scan your loyalty card at checkout."
+          }
+        ]
+      },
+      {
+        "word": "fitting room",
+        "variants": [
+          {
+            "pronunciation": "/ˈfɪtɪŋ ruːm/",
+            "meaning": "phòng thử đồ",
+            "partOfSpeech": "phrase",
+            "example": "Fitting rooms are on the second floor."
+          }
+        ]
+      },
+      {
+        "word": "restock alert",
+        "variants": [
+          {
+            "pronunciation": "/riːˈstɑːk əˈlɜːrt/",
+            "meaning": "cảnh báo hết hàng",
+            "partOfSpeech": "phrase",
+            "example": "A restock alert was sent to the warehouse."
+          }
+        ]
+      },
+      {
+        "word": "sales floor",
+        "variants": [
+          {
+            "pronunciation": "/seɪlz flɔːr/",
+            "meaning": "khu bán hàng",
+            "partOfSpeech": "phrase",
+            "example": "Managers walk the sales floor hourly."
+          }
+        ]
+      },
+      {
+        "word": "SKU",
+        "variants": [
+          {
+            "pronunciation": "/skjuː/",
+            "meaning": "mã sản phẩm",
+            "partOfSpeech": "noun",
+            "example": "Enter the SKU to locate the item."
+          }
+        ]
+      },
+      {
+        "word": "return policy",
+        "variants": [
+          {
+            "pronunciation": "/rɪˈtɜːrn ˈpɑːləsi/",
+            "meaning": "chính sách đổi trả",
+            "partOfSpeech": "phrase",
+            "example": "Our return policy allows thirty days."
+          }
+        ]
+      },
+      {
+        "word": "window display",
+        "variants": [
+          {
+            "pronunciation": "/ˈwɪndoʊ dɪˈspleɪ/",
+            "meaning": "trưng bày cửa sổ",
+            "partOfSpeech": "phrase",
+            "example": "The window display features spring styles."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "topicName": "Conferences & Events",
+    "thumbnail": "conferences-events.webp",
+    "listVocabulary": [
+      {
+        "word": "registration desk",
+        "variants": [
+          {
+            "pronunciation": "/ˌredʒɪˈstreɪʃn desk/",
+            "meaning": "quầy đăng ký",
+            "partOfSpeech": "phrase",
+            "example": "Pick up your badge at the registration desk."
+          }
+        ]
+      },
+      {
+        "word": "keynote",
+        "variants": [
+          {
+            "pronunciation": "/ˈkiːnoʊt/",
+            "meaning": "bài phát biểu chính",
+            "partOfSpeech": "noun",
+            "example": "The keynote begins at nine a.m."
+          }
+        ]
+      },
+      {
+        "word": "exhibitor",
+        "variants": [
+          {
+            "pronunciation": "/ɪɡˈzɪbɪtər/",
+            "meaning": "nhà triển lãm",
+            "partOfSpeech": "noun",
+            "example": "Exhibitors set up booths yesterday."
+          }
+        ]
+      },
+      {
+        "word": "booth",
+        "variants": [
+          {
+            "pronunciation": "/buːθ/",
+            "meaning": "gian hàng",
+            "partOfSpeech": "noun",
+            "example": "Visit our booth in hall B."
+          }
+        ]
+      },
+      {
+        "word": "networking session",
+        "variants": [
+          {
+            "pronunciation": "/ˈnetwɜːrkɪŋ ˈseʃn/",
+            "meaning": "phiên giao lưu",
+            "partOfSpeech": "phrase",
+            "example": "A networking session follows lunch."
+          }
+        ]
+      },
+      {
+        "word": "badge",
+        "variants": [
+          {
+            "pronunciation": "/bædʒ/",
+            "meaning": "thẻ đại biểu",
+            "partOfSpeech": "noun",
+            "example": "Wear your badge at all times."
+          }
+        ]
+      },
+      {
+        "word": "venue",
+        "variants": [
+          {
+            "pronunciation": "/ˈvenjuː/",
+            "meaning": "địa điểm tổ chức",
+            "partOfSpeech": "noun",
+            "example": "The venue holds five hundred guests."
+          }
+        ]
+      },
+      {
+        "word": "catering service",
+        "variants": [
+          {
+            "pronunciation": "/ˈkeɪtərɪŋ ˈsɜːrvɪs/",
+            "meaning": "dịch vụ ăn uống",
+            "partOfSpeech": "phrase",
+            "example": "Catering service provides lunch and coffee."
+          }
+        ]
+      },
+      {
+        "word": "AV equipment",
+        "variants": [
+          {
+            "pronunciation": "/ˌeɪ ˈviː ɪˈkwɪpmənt/",
+            "meaning": "thiết bị âm thanh hình ảnh",
+            "partOfSpeech": "phrase",
+            "example": "AV equipment was tested this morning."
+          }
+        ]
+      },
+      {
+        "word": "breakout room",
+        "variants": [
+          {
+            "pronunciation": "/ˈbreɪkaʊt ruːm/",
+            "meaning": "phòng họp nhóm",
+            "partOfSpeech": "phrase",
+            "example": "Workshops run in breakout rooms."
+          }
+        ]
+      },
+      {
+        "word": "sponsor booth",
+        "variants": [
+          {
+            "pronunciation": "/ˈspɑːnsər buːθ/",
+            "meaning": "gian hàng nhà tài trợ",
+            "partOfSpeech": "phrase",
+            "example": "Gold sponsors receive a sponsor booth."
+          }
+        ]
+      },
+      {
+        "word": "panel discussion",
+        "variants": [
+          {
+            "pronunciation": "/ˈpænl dɪˈskʌʃn/",
+            "meaning": "tọa đàm",
+            "partOfSpeech": "phrase",
+            "example": "The panel discussion starts at two p.m."
+          }
+        ]
+      },
+      {
+        "word": "RSVP",
+        "variants": [
+          {
+            "pronunciation": "/ˌɑːr es viː ˈpiː/",
+            "meaning": "xác nhận tham dự",
+            "partOfSpeech": "noun",
+            "example": "Please RSVP by the end of the week."
+          }
+        ]
+      },
+      {
+        "word": "name tag",
+        "variants": [
+          {
+            "pronunciation": "/neɪm tæɡ/",
+            "meaning": "thẻ tên",
+            "partOfSpeech": "phrase",
+            "example": "Print your name tag at check-in."
+          }
+        ]
+      },
+      {
+        "word": "event schedule",
+        "variants": [
+          {
+            "pronunciation": "/ɪˈvent ˈskedʒuːl/",
+            "meaning": "lịch sự kiện",
+            "partOfSpeech": "phrase",
+            "example": "The event schedule is in the app."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "topicName": "Maintenance & Facilities",
+    "thumbnail": "maintenance-facilities.webp",
+    "listVocabulary": [
+      {
+        "word": "maintenance",
+        "variants": [
+          {
+            "pronunciation": "/ˈmeɪntənəns/",
+            "meaning": "bảo trì",
+            "partOfSpeech": "noun",
+            "example": "Scheduled maintenance occurs on Sundays."
+          }
+        ]
+      },
+      {
+        "word": "repair",
+        "variants": [
+          {
+            "pronunciation": "/rɪˈper/",
+            "meaning": "sửa chữa",
+            "partOfSpeech": "noun",
+            "example": "Submit a repair request online."
+          }
+        ]
+      },
+      {
+        "word": "HVAC",
+        "variants": [
+          {
+            "pronunciation": "/ˌeɪtʃ viː eɪ ˈsiː/",
+            "meaning": "hệ thống điều hòa",
+            "partOfSpeech": "noun",
+            "example": "HVAC service is due this month."
+          }
+        ]
+      },
+      {
+        "word": "plumbing",
+        "variants": [
+          {
+            "pronunciation": "/ˈplʌmɪŋ/",
+            "meaning": "hệ thống ống nước",
+            "partOfSpeech": "noun",
+            "example": "Plumbing issues were fixed overnight."
+          }
+        ]
+      },
+      {
+        "word": "elevator",
+        "variants": [
+          {
+            "pronunciation": "/ˈelɪveɪtər/",
+            "meaning": "thang máy",
+            "partOfSpeech": "noun",
+            "example": "The elevator is out of service until noon."
+          }
+        ]
+      },
+      {
+        "word": "janitor",
+        "variants": [
+          {
+            "pronunciation": "/ˈdʒænɪtər/",
+            "meaning": "nhân viên vệ sinh",
+            "partOfSpeech": "noun",
+            "example": "The janitor restocks supplies nightly."
+          }
+        ]
+      },
+      {
+        "word": "work order ticket",
+        "variants": [
+          {
+            "pronunciation": "/wɜːrk ˈɔːrdər ˈtɪkət/",
+            "meaning": "phiếu yêu cầu sửa chữa",
+            "partOfSpeech": "phrase",
+            "example": "Open a work order ticket for broken lights."
+          }
+        ]
+      },
+      {
+        "word": "utility bill",
+        "variants": [
+          {
+            "pronunciation": "/juːˈtɪləti bɪl/",
+            "meaning": "hóa đơn điện nước",
+            "partOfSpeech": "phrase",
+            "example": "Utility bills rose during the heat wave."
+          }
+        ]
+      },
+      {
+        "word": "maintenance checklist",
+        "variants": [
+          {
+            "pronunciation": "/ˈmeɪntənəns ˈtʃeklɪst/",
+            "meaning": "bảng kiểm tra bảo trì",
+            "partOfSpeech": "phrase",
+            "example": "Complete the maintenance checklist weekly."
+          }
+        ]
+      },
+      {
+        "word": "fire extinguisher",
+        "variants": [
+          {
+            "pronunciation": "/faɪr ɪkˈstɪŋɡwɪʃər/",
+            "meaning": "bình chữa cháy",
+            "partOfSpeech": "phrase",
+            "example": "Fire extinguishers are checked monthly."
+          }
+        ]
+      },
+      {
+        "word": "facility manager",
+        "variants": [
+          {
+            "pronunciation": "/fəˈsɪləti ˈmænɪdʒər/",
+            "meaning": "quản lý cơ sở",
+            "partOfSpeech": "phrase",
+            "example": "The facility manager approved the budget."
+          }
+        ]
+      },
+      {
+        "word": "outage",
+        "variants": [
+          {
+            "pronunciation": "/ˈaʊtɪdʒ/",
+            "meaning": "sự cố mất điện",
+            "partOfSpeech": "noun",
+            "example": "A power outage closed the building briefly."
+          }
+        ]
+      },
+      {
+        "word": "preventive maintenance",
+        "variants": [
+          {
+            "pronunciation": "/prɪˈventɪv ˈmeɪntənəns/",
+            "meaning": "bảo trì phòng ngừa",
+            "partOfSpeech": "phrase",
+            "example": "Preventive maintenance reduces breakdowns."
+          }
+        ]
+      },
+      {
+        "word": "access card",
+        "variants": [
+          {
+            "pronunciation": "/ˈækses kɑːrd/",
+            "meaning": "thẻ ra vào",
+            "partOfSpeech": "phrase",
+            "example": "Use your access card at the side door."
+          }
+        ]
+      },
+      {
+        "word": "building code",
+        "variants": [
+          {
+            "pronunciation": "/ˈbɪldɪŋ koʊd/",
+            "meaning": "quy chuẩn xây dựng",
+            "partOfSpeech": "phrase",
+            "example": "Renovations must meet the building code."
+          }
+        ]
+      }
+    ]
+  }
+]

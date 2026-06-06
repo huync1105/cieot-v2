@@ -1,0 +1,886 @@
+[
+  {
+    "id": 1,
+    "topicName": "Office & Workplace",
+    "thumbnail": "office-workplace.webp",
+    "listVocabulary": [
+      {
+        "word": "employee",
+        "variants": [
+          {
+            "pronunciation": "/ɪmˈplɔɪiː/",
+            "meaning": "nhân viên",
+            "partOfSpeech": "noun",
+            "example": "The employee attended the meeting."
+          }
+        ]
+      },
+      {
+        "word": "employ",
+        "variants": [
+          {
+            "pronunciation": "/ɪmˈplɔɪ/",
+            "meaning": "tuyển dụng",
+            "partOfSpeech": "verb",
+            "example": "The company employs hundreds of workers."
+          }
+        ]
+      },
+      {
+        "word": "manager",
+        "variants": [
+          {
+            "pronunciation": "/ˈmænɪdʒər/",
+            "meaning": "quản lý",
+            "partOfSpeech": "noun",
+            "example": "The manager approved the request."
+          }
+        ]
+      },
+      {
+        "word": "department",
+        "variants": [
+          {
+            "pronunciation": "/dɪˈpɑːrtmənt/",
+            "meaning": "phòng ban",
+            "partOfSpeech": "noun",
+            "example": "She works in the sales department."
+          }
+        ]
+      },
+      {
+        "word": "schedule",
+        "variants": [
+          {
+            "pronunciation": "/ˈskedʒuːl/",
+            "meaning": "lịch trình",
+            "partOfSpeech": "noun",
+            "example": "Please check the schedule."
+          },
+          {
+            "pronunciation": "/ˈskedʒuːl/",
+            "meaning": "lên lịch",
+            "partOfSpeech": "verb",
+            "example": "We scheduled the call for Monday."
+          }
+        ]
+      },
+      {
+        "word": "deadline",
+        "variants": [
+          {
+            "pronunciation": "/ˈdedlaɪn/",
+            "meaning": "hạn chót",
+            "partOfSpeech": "noun",
+            "example": "The deadline is next Friday."
+          }
+        ]
+      },
+      {
+        "word": "colleague",
+        "variants": [
+          {
+            "pronunciation": "/ˈkɑːliːɡ/",
+            "meaning": "đồng nghiệp",
+            "partOfSpeech": "noun",
+            "example": "My colleague helped me finish the report."
+          }
+        ]
+      },
+      {
+        "word": "workspace",
+        "variants": [
+          {
+            "pronunciation": "/ˈwɜːrkˌspeɪs/",
+            "meaning": "không gian làm việc",
+            "partOfSpeech": "noun",
+            "example": "Keep your workspace clean and organized."
+          }
+        ]
+      },
+      {
+        "word": "assignment",
+        "variants": [
+          {
+            "pronunciation": "/əˈsaɪnmənt/",
+            "meaning": "nhiệm vụ",
+            "partOfSpeech": "noun",
+            "example": "Finish your assignment before noon."
+          }
+        ]
+      },
+      {
+        "word": "task",
+        "variants": [
+          {
+            "pronunciation": "/tæsk/",
+            "meaning": "công việc",
+            "partOfSpeech": "noun",
+            "example": "Complete the task by the end of the day."
+          }
+        ]
+      },
+      {
+        "word": "project",
+        "variants": [
+          {
+            "pronunciation": "/ˈprɑːdʒekt/",
+            "meaning": "dự án",
+            "partOfSpeech": "noun",
+            "example": "The project was completed ahead of schedule."
+          }
+        ]
+      },
+      {
+        "word": "document",
+        "variants": [
+          {
+            "pronunciation": "/ˈdɑːkjəmənt/",
+            "meaning": "tài liệu",
+            "partOfSpeech": "noun",
+            "example": "Please review the document carefully."
+          },
+          {
+            "pronunciation": "/ˈdɑːkjəˌment/",
+            "meaning": "lập tài liệu",
+            "partOfSpeech": "verb",
+            "example": "All changes must be documented."
+          }
+        ]
+      },
+      {
+        "word": "report",
+        "variants": [
+          {
+            "pronunciation": "/rɪˈpɔːrt/",
+            "meaning": "báo cáo",
+            "partOfSpeech": "noun",
+            "example": "The report was submitted yesterday."
+          },
+          {
+            "pronunciation": "/rɪˈpɔːrt/",
+            "meaning": "báo cáo",
+            "partOfSpeech": "verb",
+            "example": "She will report the results tomorrow."
+          }
+        ]
+      },
+      {
+        "word": "conference",
+        "variants": [
+          {
+            "pronunciation": "/ˈkɑːnfərəns/",
+            "meaning": "hội nghị",
+            "partOfSpeech": "noun",
+            "example": "She attended an international conference."
+          }
+        ]
+      },
+      {
+        "word": "appointment",
+        "variants": [
+          {
+            "pronunciation": "/əˈpɔɪntmənt/",
+            "meaning": "cuộc hẹn",
+            "partOfSpeech": "noun",
+            "example": "I have an appointment at 3 p.m."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "topicName": "Business Management",
+    "thumbnail": "business-management.webp",
+    "listVocabulary": [
+      {
+        "word": "strategy",
+        "variants": [
+          {
+            "pronunciation": "/ˈstrætədʒi/",
+            "meaning": "chiến lược",
+            "partOfSpeech": "noun",
+            "example": "The company revised its marketing strategy."
+          }
+        ]
+      },
+      {
+        "word": "objective",
+        "variants": [
+          {
+            "pronunciation": "/əbˈdʒektɪv/",
+            "meaning": "mục tiêu",
+            "partOfSpeech": "noun",
+            "example": "Our main objective is to increase sales."
+          }
+        ]
+      },
+      {
+        "word": "executive",
+        "variants": [
+          {
+            "pronunciation": "/ɪɡˈzekjətɪv/",
+            "meaning": "giám đốc điều hành",
+            "partOfSpeech": "noun",
+            "example": "The executive approved the budget."
+          }
+        ]
+      },
+      {
+        "word": "supervisor",
+        "variants": [
+          {
+            "pronunciation": "/ˈsuːpərvaɪzər/",
+            "meaning": "người giám sát",
+            "partOfSpeech": "noun",
+            "example": "Ask your supervisor for approval."
+          }
+        ]
+      },
+      {
+        "word": "delegate",
+        "variants": [
+          {
+            "pronunciation": "/ˈdelɪɡət/",
+            "meaning": "ủy quyền",
+            "partOfSpeech": "verb",
+            "example": "Managers should delegate tasks effectively."
+          }
+        ]
+      },
+      {
+        "word": "prioritize",
+        "variants": [
+          {
+            "pronunciation": "/praɪˈɔːrətaɪz/",
+            "meaning": "ưu tiên",
+            "partOfSpeech": "verb",
+            "example": "We need to prioritize urgent requests."
+          }
+        ]
+      },
+      {
+        "word": "efficiency",
+        "variants": [
+          {
+            "pronunciation": "/ɪˈfɪʃnsi/",
+            "meaning": "hiệu quả",
+            "partOfSpeech": "noun",
+            "example": "The team improved its efficiency last quarter."
+          }
+        ]
+      },
+      {
+        "word": "productivity",
+        "variants": [
+          {
+            "pronunciation": "/ˌproʊdʌkˈtɪvəti/",
+            "meaning": "năng suất",
+            "partOfSpeech": "noun",
+            "example": "Productivity rose after the new system launch."
+          }
+        ]
+      },
+      {
+        "word": "organize",
+        "variants": [
+          {
+            "pronunciation": "/ˈɔːrɡənaɪz/",
+            "meaning": "tổ chức",
+            "partOfSpeech": "verb",
+            "example": "Please organize the files by date."
+          }
+        ]
+      },
+      {
+        "word": "coordinate",
+        "variants": [
+          {
+            "pronunciation": "/koʊˈɔːrdɪneɪt/",
+            "meaning": "phối hợp",
+            "partOfSpeech": "verb",
+            "example": "She coordinates activities across departments."
+          }
+        ]
+      },
+      {
+        "word": "implement",
+        "variants": [
+          {
+            "pronunciation": "/ˈɪmplɪment/",
+            "meaning": "triển khai",
+            "partOfSpeech": "verb",
+            "example": "We will implement the plan next month."
+          }
+        ]
+      },
+      {
+        "word": "evaluate",
+        "variants": [
+          {
+            "pronunciation": "/ɪˈvæljueɪt/",
+            "meaning": "đánh giá",
+            "partOfSpeech": "verb",
+            "example": "Managers evaluate staff performance annually."
+          }
+        ]
+      },
+      {
+        "word": "oversee",
+        "variants": [
+          {
+            "pronunciation": "/ˌoʊvərˈsiː/",
+            "meaning": "giám sát",
+            "partOfSpeech": "verb",
+            "example": "He oversees operations in three regions."
+          }
+        ]
+      },
+      {
+        "word": "workflow",
+        "variants": [
+          {
+            "pronunciation": "/ˈwɜːrkfloʊ/",
+            "meaning": "quy trình làm việc",
+            "partOfSpeech": "noun",
+            "example": "The new software simplified our workflow."
+          }
+        ]
+      },
+      {
+        "word": "accountability",
+        "variants": [
+          {
+            "pronunciation": "/əˌkaʊntəˈbɪləti/",
+            "meaning": "trách nhiệm giải trình",
+            "partOfSpeech": "noun",
+            "example": "Clear accountability improves team results."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "topicName": "Human Resources",
+    "thumbnail": "human-resources.webp",
+    "listVocabulary": [
+      {
+        "word": "personnel",
+        "variants": [
+          {
+            "pronunciation": "/ˌpɜːrsəˈnel/",
+            "meaning": "nhân sự",
+            "partOfSpeech": "noun",
+            "example": "All personnel must attend the briefing."
+          }
+        ]
+      },
+      {
+        "word": "payroll",
+        "variants": [
+          {
+            "pronunciation": "/ˈpeɪroʊl/",
+            "meaning": "bảng lương",
+            "partOfSpeech": "noun",
+            "example": "Payroll is processed on the last Friday."
+          }
+        ]
+      },
+      {
+        "word": "benefit",
+        "variants": [
+          {
+            "pronunciation": "/ˈbenɪfɪt/",
+            "meaning": "phúc lợi",
+            "partOfSpeech": "noun",
+            "example": "Health insurance is a key employee benefit."
+          }
+        ]
+      },
+      {
+        "word": "compensation",
+        "variants": [
+          {
+            "pronunciation": "/ˌkɑːmpenˈseɪʃn/",
+            "meaning": "thù lao",
+            "partOfSpeech": "noun",
+            "example": "The compensation package includes bonuses."
+          }
+        ]
+      },
+      {
+        "word": "leave",
+        "variants": [
+          {
+            "pronunciation": "/liːv/",
+            "meaning": "nghỉ phép",
+            "partOfSpeech": "noun",
+            "example": "She requested two weeks of leave."
+          }
+        ]
+      },
+      {
+        "word": "attendance",
+        "variants": [
+          {
+            "pronunciation": "/əˈtendəns/",
+            "meaning": "chuyên cần",
+            "partOfSpeech": "noun",
+            "example": "Good attendance is required for the bonus."
+          }
+        ]
+      },
+      {
+        "word": "promotion",
+        "variants": [
+          {
+            "pronunciation": "/prəˈmoʊʃn/",
+            "meaning": "thăng chức",
+            "partOfSpeech": "noun",
+            "example": "He received a promotion last year."
+          }
+        ]
+      },
+      {
+        "word": "termination",
+        "variants": [
+          {
+            "pronunciation": "/ˌtɜːrmɪˈneɪʃn/",
+            "meaning": "chấm dứt hợp đồng",
+            "partOfSpeech": "noun",
+            "example": "Termination requires written notice."
+          }
+        ]
+      },
+      {
+        "word": "onboarding",
+        "variants": [
+          {
+            "pronunciation": "/ˈɑːnbɔːrdɪŋ/",
+            "meaning": "hội nhập nhân viên mới",
+            "partOfSpeech": "noun",
+            "example": "Onboarding begins on the first day."
+          }
+        ]
+      },
+      {
+        "word": "performance",
+        "variants": [
+          {
+            "pronunciation": "/pərˈfɔːrməns/",
+            "meaning": "hiệu suất",
+            "partOfSpeech": "noun",
+            "example": "Her performance exceeded expectations."
+          }
+        ]
+      },
+      {
+        "word": "appraisal",
+        "variants": [
+          {
+            "pronunciation": "/əˈpreɪzl/",
+            "meaning": "đánh giá nhân viên",
+            "partOfSpeech": "noun",
+            "example": "Annual appraisals are held in March."
+          }
+        ]
+      },
+      {
+        "word": "workplace",
+        "variants": [
+          {
+            "pronunciation": "/ˈwɜːrkpleɪs/",
+            "meaning": "nơi làm việc",
+            "partOfSpeech": "noun",
+            "example": "The workplace policy was updated recently."
+          }
+        ]
+      },
+      {
+        "word": "staffing",
+        "variants": [
+          {
+            "pronunciation": "/ˈstæfɪŋ/",
+            "meaning": "bố trí nhân sự",
+            "partOfSpeech": "noun",
+            "example": "Staffing levels will increase next quarter."
+          }
+        ]
+      },
+      {
+        "word": "retention",
+        "variants": [
+          {
+            "pronunciation": "/rɪˈtenʃn/",
+            "meaning": "giữ chân nhân viên",
+            "partOfSpeech": "noun",
+            "example": "Employee retention improved this year."
+          }
+        ]
+      },
+      {
+        "word": "grievance",
+        "variants": [
+          {
+            "pronunciation": "/ˈɡriːvəns/",
+            "meaning": "khiếu nại",
+            "partOfSpeech": "noun",
+            "example": "Submit a grievance through HR."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "topicName": "Recruitment",
+    "thumbnail": "recruitment.webp",
+    "listVocabulary": [
+      {
+        "word": "recruit",
+        "variants": [
+          {
+            "pronunciation": "/rɪˈkruːt/",
+            "meaning": "tuyển dụng",
+            "partOfSpeech": "verb",
+            "example": "We need to recruit two engineers."
+          }
+        ]
+      },
+      {
+        "word": "candidate",
+        "variants": [
+          {
+            "pronunciation": "/ˈkændɪdeɪt/",
+            "meaning": "ứng viên",
+            "partOfSpeech": "noun",
+            "example": "The candidate has strong experience."
+          }
+        ]
+      },
+      {
+        "word": "applicant",
+        "variants": [
+          {
+            "pronunciation": "/ˈæplɪkənt/",
+            "meaning": "người nộp đơn",
+            "partOfSpeech": "noun",
+            "example": "Over fifty applicants applied for the role."
+          }
+        ]
+      },
+      {
+        "word": "resume",
+        "variants": [
+          {
+            "pronunciation": "/ˈrezəmeɪ/",
+            "meaning": "sơ yếu lý lịch",
+            "partOfSpeech": "noun",
+            "example": "Please send your resume by email."
+          }
+        ]
+      },
+      {
+        "word": "interview",
+        "variants": [
+          {
+            "pronunciation": "/ˈɪntərvjuː/",
+            "meaning": "phỏng vấn",
+            "partOfSpeech": "noun",
+            "example": "The interview is scheduled for Tuesday."
+          },
+          {
+            "pronunciation": "/ˈɪntərvjuː/",
+            "meaning": "phỏng vấn",
+            "partOfSpeech": "verb",
+            "example": "We will interview five candidates."
+          }
+        ]
+      },
+      {
+        "word": "shortlist",
+        "variants": [
+          {
+            "pronunciation": "/ˈʃɔːrtlɪst/",
+            "meaning": "danh sách rút gọn",
+            "partOfSpeech": "noun",
+            "example": "Three names are on the shortlist."
+          }
+        ]
+      },
+      {
+        "word": "qualification",
+        "variants": [
+          {
+            "pronunciation": "/ˌkwɑːlɪfɪˈkeɪʃn/",
+            "meaning": "bằng cấp",
+            "partOfSpeech": "noun",
+            "example": "A degree is a required qualification."
+          }
+        ]
+      },
+      {
+        "word": "reference",
+        "variants": [
+          {
+            "pronunciation": "/ˈrefrəns/",
+            "meaning": "người giới thiệu",
+            "partOfSpeech": "noun",
+            "example": "Please provide two professional references."
+          }
+        ]
+      },
+      {
+        "word": "vacancy",
+        "variants": [
+          {
+            "pronunciation": "/ˈveɪkənsi/",
+            "meaning": "vị trí tuyển dụng",
+            "partOfSpeech": "noun",
+            "example": "There is a vacancy in the finance team."
+          }
+        ]
+      },
+      {
+        "word": "headhunter",
+        "variants": [
+          {
+            "pronunciation": "/ˈhedhʌntər/",
+            "meaning": "công ty săn đầu người",
+            "partOfSpeech": "noun",
+            "example": "A headhunter contacted her about the role."
+          }
+        ]
+      },
+      {
+        "word": "screening",
+        "variants": [
+          {
+            "pronunciation": "/ˈskriːnɪŋ/",
+            "meaning": "sàng lọc hồ sơ",
+            "partOfSpeech": "noun",
+            "example": "Initial screening takes place online."
+          }
+        ]
+      },
+      {
+        "word": "offer",
+        "variants": [
+          {
+            "pronunciation": "/ˈɔːfər/",
+            "meaning": "đề nghị tuyển dụng",
+            "partOfSpeech": "noun",
+            "example": "She accepted the job offer yesterday."
+          }
+        ]
+      },
+      {
+        "word": "probation",
+        "variants": [
+          {
+            "pronunciation": "/proʊˈbeɪʃn/",
+            "meaning": "thử việc",
+            "partOfSpeech": "noun",
+            "example": "New hires serve a three-month probation."
+          }
+        ]
+      },
+      {
+        "word": "orientation",
+        "variants": [
+          {
+            "pronunciation": "/ˌɔːriənˈteɪʃn/",
+            "meaning": "định hướng",
+            "partOfSpeech": "noun",
+            "example": "Orientation starts at nine o'clock."
+          }
+        ]
+      },
+      {
+        "word": "hire",
+        "variants": [
+          {
+            "pronunciation": "/ˈhaɪər/",
+            "meaning": "thuê",
+            "partOfSpeech": "verb",
+            "example": "We plan to hire ten new staff members."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "topicName": "Training",
+    "thumbnail": "training.webp",
+    "listVocabulary": [
+      {
+        "word": "workshop",
+        "variants": [
+          {
+            "pronunciation": "/ˈwɜːrkʃɑːp/",
+            "meaning": "hội thảo",
+            "partOfSpeech": "noun",
+            "example": "The workshop covers customer service skills."
+          }
+        ]
+      },
+      {
+        "word": "seminar",
+        "variants": [
+          {
+            "pronunciation": "/ˈsemɪnɑːr/",
+            "meaning": "hội thảo chuyên đề",
+            "partOfSpeech": "noun",
+            "example": "She attended a leadership seminar."
+          }
+        ]
+      },
+      {
+        "word": "certification",
+        "variants": [
+          {
+            "pronunciation": "/ˌsɜːrtɪfɪˈkeɪʃn/",
+            "meaning": "chứng chỉ",
+            "partOfSpeech": "noun",
+            "example": "Certification is required for this role."
+          }
+        ]
+      },
+      {
+        "word": "curriculum",
+        "variants": [
+          {
+            "pronunciation": "/kəˈrɪkjələm/",
+            "meaning": "chương trình đào tạo",
+            "partOfSpeech": "noun",
+            "example": "The curriculum includes safety procedures."
+          }
+        ]
+      },
+      {
+        "word": "instructor",
+        "variants": [
+          {
+            "pronunciation": "/ɪnˈstrʌktər/",
+            "meaning": "giảng viên",
+            "partOfSpeech": "noun",
+            "example": "The instructor explained each step clearly."
+          }
+        ]
+      },
+      {
+        "word": "module",
+        "variants": [
+          {
+            "pronunciation": "/ˈmɑːdjuːl/",
+            "meaning": "mô-đun",
+            "partOfSpeech": "noun",
+            "example": "Complete module two before Friday."
+          }
+        ]
+      },
+      {
+        "word": "skill",
+        "variants": [
+          {
+            "pronunciation": "/skɪl/",
+            "meaning": "kỹ năng",
+            "partOfSpeech": "noun",
+            "example": "The program develops communication skills."
+          }
+        ]
+      },
+      {
+        "word": "competency",
+        "variants": [
+          {
+            "pronunciation": "/ˈkɑːmpɪtənsi/",
+            "meaning": "năng lực",
+            "partOfSpeech": "noun",
+            "example": "Technical competency is assessed annually."
+          }
+        ]
+      },
+      {
+        "word": "mentor",
+        "variants": [
+          {
+            "pronunciation": "/ˈmentɔːr/",
+            "meaning": "người cố vấn",
+            "partOfSpeech": "noun",
+            "example": "Each trainee is assigned a mentor."
+          }
+        ]
+      },
+      {
+        "word": "enrollment",
+        "variants": [
+          {
+            "pronunciation": "/ɪnˈroʊlmənt/",
+            "meaning": "ghi danh",
+            "partOfSpeech": "noun",
+            "example": "Enrollment for the course closes Friday."
+          }
+        ]
+      },
+      {
+        "word": "assessment",
+        "variants": [
+          {
+            "pronunciation": "/əˈsesmənt/",
+            "meaning": "đánh giá",
+            "partOfSpeech": "noun",
+            "example": "The final assessment is next week."
+          }
+        ]
+      },
+      {
+        "word": "refresher",
+        "variants": [
+          {
+            "pronunciation": "/rɪˈfreʃər/",
+            "meaning": "khóa ôn tập",
+            "partOfSpeech": "noun",
+            "example": "Staff take a safety refresher every year."
+          }
+        ]
+      },
+      {
+        "word": "e-learning",
+        "variants": [
+          {
+            "pronunciation": "/ˈiː lɜːrnɪŋ/",
+            "meaning": "học trực tuyến",
+            "partOfSpeech": "noun",
+            "example": "E-learning modules are available online."
+          }
+        ]
+      },
+      {
+        "word": "handout",
+        "variants": [
+          {
+            "pronunciation": "/ˈhændaʊt/",
+            "meaning": "tài liệu phát",
+            "partOfSpeech": "noun",
+            "example": "Collect a handout at the registration desk."
+          }
+        ]
+      },
+      {
+        "word": "demonstrate",
+        "variants": [
+          {
+            "pronunciation": "/ˈdemənstreɪt/",
+            "meaning": "trình diễn",
+            "partOfSpeech": "verb",
+            "example": "The trainer will demonstrate the procedure."
+          }
+        ]
+      }
+    ]
+  }
+]
