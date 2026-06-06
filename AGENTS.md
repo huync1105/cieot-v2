@@ -93,6 +93,33 @@ Sau khi làm xong một phase và cần `git commit`, dùng **một** trong các
 - `<back>(huync1105): Flow đồng bộ vai trò từ Keycloak`
 - `<config>(cursor): Bổ sung quy ước commit trong AGENTS.md`
 
+## Quy tắc Git: nhánh, push và pull request
+
+**Không push thẳng lên nhánh chính** (`main` / `master`) trừ khi người yêu cầu **nói rõ** cho phép.
+
+Luồng mặc định sau khi commit:
+
+1. **Tạo nhánh feature** từ `main` (ví dụ: `feat/phase-0-foundation`, `config/agents-pr-workflow`).
+2. **Commit** trên nhánh đó (tuân thủ khung tiêu đề ở mục trên).
+3. **Push** nhánh feature lên remote: `git push -u origin HEAD` — **không** `git push origin main`.
+4. **Tạo Pull Request** bằng `gh pr create` (hoặc UI GitHub) để owner review trước khi merge.
+5. **Trả URL PR** trong phản hồi cuối; không coi task hoàn tất nếu chưa có PR (trừ khi user chỉ yêu cầu sửa local, chưa yêu cầu đẩy code).
+
+### Nội dung PR tối thiểu
+
+- **Summary:** 1–3 bullet — thay đổi gì, vì sao.
+- **Test plan:** checklist verify (lệnh chạy, màn hình/API đã kiểm tra).
+
+### Cấm / tránh
+
+- `git push origin main` (hoặc `--force` lên `main`) khi chưa được user yêu cầu rõ.
+- Merge PR thay owner trừ khi user ủy quyền.
+- Nhiều feature không liên quan gom chung một PR — tách PR nhỏ, dễ review.
+
+### Ngoại lệ
+
+Chỉ push/merge thẳng `main` khi user message có ý **rõ ràng** (ví dụ: "push thẳng main", "merge luôn không cần PR").
+
 ## Quy tắc tối ưu context
 
 - Luôn nạp tài liệu theo đúng mảng công việc, tránh nạp toàn bộ tài liệu không liên quan.
